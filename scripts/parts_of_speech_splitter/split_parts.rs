@@ -86,7 +86,11 @@ impl Book {
 }
 
 fn no_spaces_etc(check: &str) -> bool {
-
+    // NOTE: was doing this to remove some stuff
+    // from adjectives. Since all words types
+    // are going now, I'm leaving everything in 
+    // and just relying on filtering downstream if 
+    // it's necessary.
     // check.chars().nth(0).expect("getting_char").is_lowercase()
     //     && 
     // !check.contains(" ")
@@ -94,9 +98,7 @@ fn no_spaces_etc(check: &str) -> bool {
     // !check.contains(".")
     //     && 
     // !check.contains("-")
-
     true
-
 }
 
 fn main() -> Result<()> {
