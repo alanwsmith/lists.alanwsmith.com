@@ -8,6 +8,7 @@ use anyhow::Result;
 use std::path::PathBuf;
 use std::fs;
 use serde_json::{Value};
+use std::collections::BTreeSet;
 
 struct Book {
     letters: Vec<Letter>
@@ -18,32 +19,60 @@ struct Letter {
 }
 
 impl Book {
+    pub fn get_word_kinds(&self) -> Result<BTreeSet<String>> {
+        let mut kinds: BTreeSet<String> = BTreeSet::new();
+        let kind = "adjective";
+        self.letters.iter().for_each(|letter| letter.words
+            .as_object()
+            .expect("asdf")
+            .values()
+            .for_each(|x| {
+                    match x["meanings"].as_array() {
+                        Some(meanings) => { 
+                            meanings.iter().for_each(|meaning| {
+                                match meaning["speech_part"].as_str() {
+                                    Some(speech_part) => {
+                                        kinds.insert(speech_part.to_string());
+                                        // if kind == speech_part {
+                                        //     Some(x["word"].as_str()?.to_string())
+                                        // } else {
+                                        //     None
+                                        // }
+
+                                    },
+                                None => ()
+                                }
+                            })
+                        }
+                                None => ()
+                    }
+            })
+        );
+        Ok(kinds)
+    }
+
     pub fn get_words_of_kind(&self, kind: &str) -> Result<Vec<String>> {
         let mut words: Vec<String> = self.letters.iter().flat_map(|letter| letter.words
             .as_object()
             .expect("asdf")
             .values()
             .filter_map(|x| {
-                if no_spaces_etc(x["word"].as_str().unwrap()) {
-                    match x["meanings"].as_array() {
-                        Some(meanings) => { 
-                            meanings.iter().find_map(|meaning| {
-                                match meaning["speech_part"].as_str() {
-                                    Some(speech_part) => {
-                                        if kind == speech_part {
-                                            Some(x["word"].as_str()?.to_string())
-                                        } else {
-                                            None
-                                        }
-                                    },
-                                    None => None
-                                }
-                            })
-                        }
-                        None => None
+                match x["meanings"].as_array() {
+                    Some(meanings) => { 
+                        meanings.iter().find_map(|meaning| {
+                            match meaning["speech_part"].as_str() {
+                                Some(speech_part) => {
+                                    if kind == speech_part {
+                                        Some(x["word"].as_str()?.to_string())
+                                    } else {
+                                        None
+                                    }
+                                },
+                                None => None
+                            }
+                        })
                     }
-                } else {
-                    None
+                    None => None
                 }
             }).collect::<Vec<String>>()
         ).collect();
@@ -52,20 +81,15 @@ impl Book {
     }
 }
 
-fn no_spaces_etc(check: &str) -> bool {
-    check.chars().nth(0).expect("getting_char").is_lowercase()
-        && 
-    !check.contains(" ")
-        && 
-    !check.contains(".")
-        && 
-    !check.contains("-")
-}
-
 fn main() -> Result<()> {
     let book = load_data()?;
+    let word_kinds = book.get_word_kinds();
+    dbg!(word_kinds);
     let word_types = vec![
-    ("adjective", "adjectives")
+        ("adjective", "adjectives"),
+        ("adverb", "adverbs"),
+        ("noun", "nouns"),
+        ("verb", "verbs"),
     ];
     make_files(&book, &word_types)?;
     Ok(())
@@ -73,10 +97,10 @@ fn main() -> Result<()> {
 
 pub fn make_files(book: &Book, word_types: &Vec<(&str, &str)>) -> Result<()> {
     word_types.iter().for_each(|wt| {
-        let output_path = PathBuf::from(format!("../../docs/txt/{}.txt", wt.1));
+        let output_path = PathBuf::from(format!("../../docs/txt/english-{}.txt", wt.1));
         let words = book.get_words_of_kind(wt.0).unwrap();
         fs::write(output_path, words.join("\n")).unwrap();
-        let about_path = PathBuf::from(format!("../../docs/txt/{}-about.txt", wt.1));
+        let about_path = PathBuf::from(format!("../../docs/txt/english-{}__about.txt", wt.1));
         let about_txt = format!("A collection of {} from the open source Wordset Dictionary\nhttps://github.com/wordset/wordset-dictionary", wt.1);
         fs::write(about_path, about_txt).unwrap();
     });

@@ -1,3 +1,826 @@
+A-one
+ASAT
+Aberdonian
+Abkhaz
+Abkhazian
+Abnaki
+Aboriginal
+Achaean
+Acheronian
+Acherontic
+Adonic
+Aegean
+Aeolian
+Aeschylean
+Afghan
+Afghani
+Afghanistani
+African
+African-American
+Afrikaans
+Afrikaner
+Afro-American
+Afro-Asian
+Alaskan
+Albanian
+Albigensian
+Aleutian
+Alexandrian
+Algerian
+Algonkian
+Algonquian
+Algonquin
+Allied
+Alpine
+Alsatian
+Altaic
+Ambrosian
+American
+Amerind
+Amerindic
+Amharic
+Andalusian
+Andean
+Andorran
+Anglican
+Anglo-Indian
+Anglo-Jewish
+Anglo-Saxon
+Anglo-catholic
+Anglophilic
+Anglophobic
+Angolan
+Anguillan
+Antarctic
+Antiguan
+Apocryphal
+Appalachian
+Arabian
+Arabic
+Aramaean
+Aramaic
+Aramean
+Arawakan
+Arctic
+Argentine
+Argentinian
+Argive
+Aristotelean
+Aristotelian
+Aristotelic
+Armenian
+Arminian
+Arthurian
+Aryan
+Asian
+Asiatic
+Assamese
+Athenian
+Atlantic
+Attic
+Audenesque
+Augean
+Augustan
+Australasian
+Australian
+Austrian
+Austronesian
+Avestan
+Azerbaijani
+Babylonian
+Bahai
+Bahamian
+Bahraini
+Baltic
+Balzacian
+Bangladeshi
+Bantoid
+Bantu
+Bantu-speaking
+Baptistic
+Barbadian
+Baroque
+Basque
+Bavarian
+Bayesian
+Beethovenian
+Belarusian
+Belgian
+Benedictine
+Bengali
+Beninese
+Bermudan
+Bhutanese
+Biedermeier
+Bismarckian
+Blessed
+Boeotian
+Bogartian
+Bohemian
+Bolivian
+Bolshevik
+Bolshevist
+Bolshevistic
+Boolean
+Bosnian
+Botswanan
+Brazilian
+Britannic
+British
+Briton
+Brobdingnagian
+Brummagem
+Bruneian
+Buddhist
+Buddhistic
+Bulgarian
+Burmese
+Burundi
+Burundian
+Byzantine
+Caesarean
+Caesarian
+Calcuttan
+Californian
+Calvinist
+Calvinistic
+Calvinistical
+Cambodian
+Cambrian
+Cameroonian
+Canadian
+Capetian
+Cappadocian
+Carmelite
+Carolean
+Caroline
+Carolingian
+Cartesian
+Carthaginian
+Carthusian
+Catalan
+Catholic
+Caucasian
+Caucasic
+Caucasoid
+Celtic
+Cenozoic
+Central American
+Ceylonese
+Chadian
+Chaldaean
+Chaldean
+Chaldee
+Chasidic
+Chassidic
+Chechen
+Chian
+Chilean
+Chinese
+Chinese-red
+Chippendale
+Christian
+Christological
+Churchillian
+Cimmerian
+Cockney
+Coleridgean
+Coleridgian
+Colombian
+Columbian
+Confederate
+Confucian
+Congolese
+Congregational
+Congregationalist
+Continental
+Copernican
+Coptic
+Cornish
+Corsican
+Costa Rican
+Creole
+Cretaceous
+Croatian
+Cromwellian
+Cuban
+Cyprian
+Cypriot
+Cypriote
+Cyrillic
+Czech
+Czechoslovakian
+Dalmatian
+Danish
+Dantean
+Dantesque
+Darwinian
+Delphian
+Delphic
+Democratic
+Demosthenic
+Demotic
+Deweyan
+Dickensian
+Dionysian
+Dipylon
+Djiboutian
+Dominican
+Donatist
+Donnean
+Donnian
+Dorian
+Dostoevskian
+Dostoyevskian
+Draconian
+Dutch
+East African
+East German
+East Indian
+East Pakistani
+Eastern Orthodox
+Ebionite
+Ecuadorian
+Edwardian
+Egyptian
+Einsteinian
+Elizabethan
+English
+Ephesian
+Epicurean
+Episcopal
+Episcopalian
+Erasmian
+Eritrean
+Essene
+Estonian
+Ethiopian
+Eucharistic
+Eurafrican
+Eurasian
+Eurasiatic
+Eurocentric
+European
+Europocentric
+Fabian
+Fahrenheit
+Falstaffian
+Faustian
+Federal
+Fijian
+Filipino
+Finnish
+Finno-Ugric-speaking
+Flemish
+Flemish-speaking
+Florentine
+Formosan
+Franciscan
+Frankish
+French
+French-speaking
+Freudian
+Frisian
+Frostian
+GI
+GU
+Gabonese
+Gaelic
+Gaelic-speaking
+Galilaean
+Galilean
+Gallic
+Gallican
+Galwegian
+Gambian
+Gandhian
+Gauguinesque
+Gaussian
+Genoese
+Genovese
+Georgian
+German
+German-American
+German-speaking
+Germanic
+Ghanaian
+Ghanese
+Ghanian
+Gibraltarian
+Gilbertian
+Glaswegian
+Gnostic
+Goethean
+Goethian
+Gordian
+Gothic
+Graeco-Roman
+Graecophile
+Graecophilic
+Gram-negative
+Gram-positive
+Grecian
+Greco-Roman
+Greek
+Greek Orthodox
+Gregorian
+Grenadian
+Guatemalan
+Guinean
+Guyanese
+H-shaped
+Hadean
+Haitian
+Handelian
+Hanoverian
+Hasidic
+Hassidic
+Hawaiian
+Hebraic
+Hebraical
+Hebrew
+Hebridean
+Hegelian
+Hellenic
+Hellenistic
+Hellenistical
+Hemingwayesque
+Hertzian
+Hesperian
+Himalayan
+Hindi
+Hindoo
+Hindu
+Hindustani
+Hippocratic
+Hispanic
+Hispaniolan
+Hitlerian
+Hittite
+Hmong
+Hollywood
+Homeric
+Honduran
+Hugoesque
+Hungarian
+Huxleian
+Iberian
+Ibsenian
+Icelandic
+Icelandic-speaking
+Incan
+Indian
+Indo-Aryan
+Indo-European
+Indo-Germanic
+Indonesian
+Ionian
+Ionic
+Iraki
+Iranian
+Iraqi
+Irish
+Islamic
+Ismaili
+Israeli
+Italian
+Italian-speaking
+Italic
+Jacksonian
+Jacobean
+Jacobinic
+Jacobinical
+Jain
+Jainist
+Jamaican
+Jamesian
+Janus-faced
+Japanese
+Javan
+Javanese
+Jeffersonian
+Jesuit
+Jesuitic
+Jesuitical
+Jewish
+Jewish-Orthodox
+Jordanian
+Jovian
+Judaic
+Judaical
+Judeo-Christian
+Julian
+Jungian
+Junoesque
+Jurassic
+KO'd
+Kafkaesque
+Kampuchean
+Kantian
+Kashmiri
+Katari
+Kazakhstani
+Kechuan
+Kenyan
+Keynesian
+Kiplingesque
+Kokka
+Koranic
+Korean
+Kurdish
+Kuwaiti
+Kyrgyzstani
+L-shaped
+Lamarckian
+Lancastrian
+Lao
+Laotian
+Laputan
+Latin
+Latin-American
+Latino
+Latvian
+Lebanese
+Leibnitzian
+Leibnizian
+Leonardesque
+Levantine
+Levitical
+Liberian
+Libyan
+Liechtensteiner
+Lilliputian
+Lincolnesque
+Lincolnian
+Linnaean
+Linnean
+Lithuanian
+Liverpudlian
+Livonian-speaking
+Lusitanian
+Lutheran
+Luxembourgian
+Luxemburger
+Macedonian
+Machiavellian
+Madagascan
+Magyar
+Malawian
+Malay
+Malayan
+Malayo-Polynesian
+Malaysian
+Malian
+Maltese
+Malthusian
+Manchurian
+Mancunian
+Mandaean
+Mandean
+Manichaean
+Manichean
+Manichee
+Manx
+Maoist
+Marian
+Markovian
+Maroc
+Martian
+Marxist
+Marxist-Leninist
+Masonic
+Masoretic
+Mauritanian
+Mauritian
+Mediterranean
+Melanesian
+Mendelian
+Mercurial
+Merovingian
+Mesoamerican
+Mesozoic
+Methodist
+Mexican
+Michelangelesque
+Middle Eastern
+Milanese
+Minoan
+Mishnaic
+Modern
+Mohammedan
+Moldovan
+Monacan
+Monegasque
+Mongol
+Mongolian
+Mongoloid
+Monophysite
+Monophysitic
+Montserratian
+Moorish
+Moravian
+Moresque
+Mormon
+Moroccan
+Mosaic
+Moslem
+Mozambican
+Mozartean
+Mozartian
+Muhammadan
+Muscovite
+Muslim
+Mycenaean
+Namibian
+Napoleonic
+Native American
+Nauruan
+Nazarene
+Nazi
+Neandertal
+Neanderthal
+Neanderthalian
+Neapolitan
+Nepalese
+Nepali
+Nestorian
+New
+New Caledonian
+New Zealander
+Newtonian
+Nicaean
+Nicaraguan
+Nicene
+Nigerian
+Nigerien
+Nilotic
+Nipponese
+Noachian
+Nordic
+Norman
+Norse
+North African
+North American
+North Korean
+North Vietnamese
+Norwegian
+Numidian
+Old
+Olympian
+Olympic
+Omani
+Orphic
+Orthodox
+Orwellian
+Oscan-speaking
+Ottoman
+Oxonian
+Pacific
+Pakistani
+Paleozoic
+Palestinian
+Palladian
+Pan-Hellenic
+Panamanian
+Panhellenic
+Papuan
+Paraguayan
+Parisian
+Parthian
+Pasteurian
+Pauline
+Pavlovian
+Peloponnesian
+Persian
+Peruvian
+Pharaonic
+Philippine
+Philistine
+Phoenician
+Piagetian
+Platonic
+Platonistic
+Plutonian
+Polish
+Polynesian
+Portuguese
+Praetorian
+Prakritic
+Pre-Raphaelite
+Pretorian
+Procrustean
+Protestant
+Proustian
+Prussian
+Ptolemaic
+Punic
+Puranic
+Pythagorean
+Qatari
+Quebecois
+Quechuan
+R.C.
+Rabelaisian
+Rastafarian
+Reformed
+Rembrandtesque
+Rhenish
+Rhodesian
+Riemannian
+Roman
+Roman Catholic
+Romance
+Romani
+Romanian
+Romanic
+Romanist
+Romansh
+Romany
+Rooseveltian
+Rosicrucian
+Roumanian
+Ruandan
+Rumanian
+Rumansh
+Ruritanian
+Russian
+Russian Orthodox
+Russian-speaking
+Rwandan
+Sabahan
+Sabbatarian
+Sabine
+Sadducean
+Saharan
+Salvadoran
+Salvadorean
+Samoan
+Samoyedic-speaking
+San Marinese
+Sapphic
+Sarawakian
+Sardinian
+Satanic
+Saudi
+Saudi-Arabian
+Saxon
+Scandinavian
+Scotch
+Scots
+Scottish
+Scouse
+Scythian
+Seljuk
+Semite
+Semitic
+Semitic-speaking
+Senecan
+Senegalese
+Serbian
+Seychellois
+Shakespearean
+Shakespearian
+Shavian
+Shinto
+Shintoist
+Shintoistic
+Shona
+Shuha
+Siamese
+Siberian
+Sicilian
+Sierra Leonean
+Sikh
+Singaporean
+Singhalese
+Sinhala
+Sinhalese
+Sinitic
+Siouan
+Sisyphean
+Skinnerian
+Slav
+Slavic
+Slavonic
+Slovakian
+Slovenian
+Socratic
+Solomonic
+Somali
+Somalian
+Sotho
+South African
+South American
+South Korean
+Soviet
+Spanish
+Spanish-speaking
+Spartan
+Sri Lankan
+Stalinist
+Stoic
+Stravinskian
+Stravinskyan
+Stygian
+Sudanese
+Sufi
+Sumatran
+Sumerian
+Sunday-go-to-meeting
+Swahili
+Swazi
+Swedish
+Swiss
+Syrian
+T-shaped
+Tahitian
+Tai
+Taiwanese
+Tajikistani
+Tamil
+Tantric
+Tantrik
+Tanzanian
+Taoist
+Tartarean
+Tasmanian
+Teutonic
+Texan
+Thai
+Theban
+Thoreauvian
+Thracian
+Tibetan
+Timorese
+Tobagonian
+Togolese
+Tongan
+Triassic
+Trinidadian
+Trojan
+Tudor
+Tunisian
+Turkic
+Turkic-speaking
+Turkish
+Turkmen
+Tuscan
+Tyrolean
+Tyrolese
+U-shaped
+Ugandan
+Ukrainian
+Uniate
+Union
+Unitarian
+Uruguayan
+Utopian
+Uzbekistani
+Vedic
+Venetian
+Venezuelan
+Victorian
+Viennese
+Vietnamese
+Voltarean
+Voltarian
+W-shaped
+WYSIWYG
+Wagnerian
+Washingtonian
+Welsh
+Wesleyan
+West African
+Wiccan
+Wilsonian
+Wittgensteinian
+Wordsworthian
+X-linked
+Yankee
+Yeatsian
+Yemeni
+Yugoslav
+Yugoslavian
+Yuman
+Zairean
+Zairese
+Zambian
+Zapotec
+Zimbabwean
+Zionist
+Zolaesque
+Zoroastrian
+a cappella
+a couple of
+a few
+a la carte
+a la mode
+a notch above
+a posteriori
+a priori
+a-ok
+a-okay
+a.m.
 abactinal
 abandoned
 abashed
@@ -25,6 +848,8 @@ ablated
 ablative
 ablaze
 able
+able to get a word in edgewise
+able-bodied
 abloom
 ablutionary
 abnormal
@@ -40,6 +865,10 @@ aboulic
 abounding
 about
 above
+above and beyond the call of duty
+above the salt
+above-mentioned
+above-named
 aboveboard
 aboveground
 abranchial
@@ -51,6 +880,7 @@ abridged
 abroach
 abroad
 abrupt
+abruptly-pinnate
 abscessed
 absent
 absentminded
@@ -111,6 +941,7 @@ accessible
 accessional
 accessorial
 accessory
+accident-prone
 accidental
 accipitrine
 acclivitous
@@ -176,6 +1007,10 @@ achy
 acicular
 aciculate
 acid
+acid-fast
+acid-forming
+acid-loving
+acid-tasting
 acidic
 acidimetric
 acidophilic
@@ -193,6 +1028,7 @@ acknowledged
 acned
 acneiform
 acold
+acorn-shaped
 acoustic
 acoustical
 acquainted
@@ -214,6 +1050,7 @@ acronymous
 acropetal
 acrophobic
 acroscopic
+across-the-board
 actable
 actinal
 acting
@@ -242,6 +1079,9 @@ aculeated
 acuminate
 acute
 acyclic
+ad hoc
+ad hominem
+ad-lib
 adactylous
 adagio
 adamant
@@ -271,6 +1111,7 @@ adenoid
 adenoidal
 adept
 adequate
+adequate to
 adherent
 adhesive
 adiabatic
@@ -420,6 +1261,9 @@ afoul
 afraid
 aft
 after
+after one's own heart
+after-hours
+after-school
 aftermost
 aftershafted
 agamic
@@ -427,6 +1271,8 @@ agamogenetic
 agamous
 agape
 agaze
+age-old
+age-related
 aged
 ageing
 ageless
@@ -473,6 +1319,7 @@ agraphic
 agrarian
 agreeable
 agreed
+agreed upon
 agrestic
 agricultural
 agrobiologic
@@ -492,6 +1339,17 @@ aided
 ailing
 aimless
 ain
+air sick
+air-breathing
+air-conditioned
+air-cooled
+air-dried
+air-dry
+air-filled
+air-tight
+air-to-air
+air-to-ground
+air-to-surface
 airborne
 aired
 airheaded
@@ -504,6 +1362,7 @@ airy
 ajar
 akimbo
 akin
+al dente
 alabaster
 alabastrine
 alacritous
@@ -526,6 +1385,8 @@ alchemic
 alchemical
 alchemistic
 alchemistical
+alcohol-dependent
+alcohol-soluble
 alcoholic
 aldehydic
 aldermanic
@@ -564,10 +1425,35 @@ alkahestic
 alkalescent
 alkalic
 alkaline
+alkaline-loving
 alkaloidal
 alkalotic
 alkylic
 all
+all important
+all in
+all over
+all right
+all-around
+all-devouring
+all-embracing
+all-encompassing
+all-fired
+all-important
+all-inclusive
+all-knowing
+all-mains
+all-metal
+all-night
+all-or-none
+all-or-nothing
+all-out
+all-powerful
+all-purpose
+all-round
+all-time
+all-victorious
+all-weather
 allantoic
 allantoid
 allargando
@@ -612,6 +1498,9 @@ allusive
 alluvial
 allylic
 almighty
+almond-eyed
+almond-scented
+almond-shaped
 alone
 aloof
 alopecic
@@ -659,6 +1548,7 @@ amazing
 ambagious
 ambassadorial
 amber
+amber-green
 ambidextrous
 ambient
 ambiguous
@@ -771,6 +1661,7 @@ anagogical
 anagrammatic
 anagrammatical
 anal
+anal retentive
 analeptic
 analgesic
 analgetic
@@ -861,6 +1752,7 @@ animatistic
 animist
 animistic
 anionic
+anise-scented
 aniseikonic
 anisogametic
 anisogamic
@@ -868,6 +1760,7 @@ anisogamous
 anisometric
 anisometropic
 anisotropic
+ankle-deep
 ankylotic
 annalistic
 annelid
@@ -891,6 +1784,7 @@ anodyne
 anoestrous
 anomalous
 anomic
+anon.
 anonymous
 anoperineal
 anopheline
@@ -910,6 +1804,7 @@ answerable
 answering
 antacid
 antagonistic
+ante meridiem
 antebellum
 antecedent
 antecubital
@@ -946,6 +1841,10 @@ anthropomorphic
 anthropomorphous
 anthropophagous
 anti
+anti-American
+anti-Semite
+anti-intellectual
+anti-semitic
 antiadrenergic
 antiaircraft
 antiapartheid
@@ -1015,6 +1914,7 @@ antitumour
 antitypic
 antitypical
 antiviral
+antler-like
 antlered
 antonymous
 antrorse
@@ -1115,6 +2015,9 @@ appetising
 appetitive
 appetizing
 applaudable
+apple-scented
+apple-shaped
+apple-sized
 applicable
 applicative
 applicatory
@@ -1234,6 +2137,7 @@ argentous
 argillaceous
 arguable
 argumentative
+argus-eyed
 arid
 ariled
 arillate
@@ -1246,11 +2150,17 @@ armed
 armillary
 armless
 armlike
+armor-clad
+armor-plated
 armored
 armorial
+armour-clad
+armour-plated
 armoured
 aroid
 aromatic
+around the bend
+around-the-clock
 aroused
 arranged
 arrant
@@ -1259,6 +2169,7 @@ arresting
 arrhythmic
 arrhythmical
 arrogant
+arrow-shaped
 arsenical
 arsenious
 arseways
@@ -1290,7 +2201,9 @@ artiodactyl
 artiodactylous
 artistic
 artless
+artsy-craftsy
 arty
+arty-crafty
 arundinaceous
 ascendable
 ascendant
@@ -1312,6 +2225,9 @@ ascosporous
 ascribable
 aseptic
 asexual
+ash-blonde
+ash-gray
+ash-grey
 ashamed
 ashen
 ashy
@@ -1403,6 +2319,19 @@ asymptotic
 asynchronous
 asyndetic
 asynergic
+at a loss
+at bay
+at fault
+at hand
+at large
+at loggerheads
+at odds
+at peace
+at rest
+at sea
+at the ready
+at variance
+at work
 atactic
 ataractic
 ataraxic
@@ -1442,6 +2371,7 @@ attained
 attempted
 attendant
 attended
+attention-getting
 attentional
 attentive
 attenuate
@@ -1453,14 +2383,21 @@ attractable
 attractive
 attributable
 attributive
+attributive genitive
 attrited
 attritional
 atypical
+au courant
+au fait
+au gratin
+au jus
+au naturel
 auburn
 auctorial
 audacious
 audible
 audile
+audio-lingual
 audiometric
 audiovisual
 auditive
@@ -1540,11 +2477,14 @@ autotelic
 autotomic
 autotrophic
 autotypic
+autumn-blooming
+autumn-flowering
 autumnal
 auxetic
 auxiliary
 auxinic
 available
+avant-garde
 avaricious
 avascular
 avellan
@@ -1570,9 +2510,11 @@ avuncular
 awaited
 awake
 awakened
+award-winning
 aware
 awash
 away
+awe-inspiring
 aweary
 awed
 aweigh
@@ -1584,6 +2526,7 @@ awful
 awheel
 awing
 awkward
+awl-shaped
 awless
 awned
 awninged
@@ -1612,6 +2555,7 @@ azygos
 azygous
 babelike
 baboonish
+baby-faced
 babyish
 baccate
 bacchanal
@@ -1624,6 +2568,9 @@ bacillar
 bacillary
 bacilliform
 back
+back-channel
+back-geared
+back-to-back
 backbreaking
 backed
 backhand
@@ -1650,23 +2597,32 @@ bacteroid
 bacteroidal
 baculiform
 bad
+bad-mannered
+bad-tempered
 baffled
 baffling
+bag-shaped
 baggy
 bailable
 baked
 baking
+baking hot
 balanced
 balconied
 bald
+bald-faced
+bald-headed
+bald-pated
 balding
 baleful
 balking
 balky
+ball-hawking
 balletic
 ballistic
 bally
 balmy
+balsam-scented
 balsamic
 balsamy
 banal
@@ -1674,7 +2630,9 @@ banausic
 bandaged
 banded
 bandy
+bandy-legged
 baneful
+bang-up
 banging
 bankable
 bankrupt
@@ -1685,6 +2643,7 @@ bantering
 baptised
 baptismal
 baptized
+bar-shaped
 barbarian
 barbaric
 barbarous
@@ -1694,6 +2653,11 @@ barbed
 barbellate
 bardic
 bare
+bare-ass
+bare-assed
+bare-breasted
+bare-knuckle
+bare-knuckled
 bareback
 barebacked
 bared
@@ -1703,6 +2667,7 @@ barefooted
 barehanded
 bareheaded
 barelegged
+bargain-priced
 baric
 baritone
 barky
@@ -1713,6 +2678,7 @@ barometrical
 baronial
 baroque
 barred
+barrel-shaped
 barreled
 barrelled
 barren
@@ -1721,6 +2687,7 @@ barytic
 basal
 basaltic
 base
+base-forming
 baseborn
 based
 baseless
@@ -1737,6 +2704,7 @@ basinal
 basined
 basipetal
 basiscopic
+basket-shaped
 basophilic
 bass
 bastard
@@ -1753,7 +2721,10 @@ bathymetric
 bathymetrical
 batrachian
 bats
+batter-fried
 battered
+battery-powered
+battle-scarred
 battleful
 battlemented
 batty
@@ -1764,12 +2735,15 @@ bay
 beaded
 beadlike
 beady
+beady-eyed
 beaked
 beakless
 beaklike
 beaming
 beamish
 beamy
+bean-shaped
+bear-sized
 bearable
 bearded
 beardless
@@ -1778,8 +2752,10 @@ bearing
 bearish
 beastly
 beat
+beat-up
 beatable
 beaten
+beaten-up
 beatific
 beatified
 beauteous
@@ -1796,9 +2772,11 @@ bedraggled
 bedrid
 bedridden
 beechen
+beefed-up
 beefy
 beery
 beetle
+beetle-browed
 beetling
 befitting
 befogged
@@ -1819,6 +2797,7 @@ behaviourist
 behaviouristic
 beheaded
 behind
+behind-the-scenes
 behindhand
 beholden
 beige
@@ -1827,15 +2806,23 @@ belemnitic
 believable
 belittled
 belittling
+bell-bottom
+bell-bottomed
+bell-shaped
 bellbottom
 belletristic
 bellicose
 bellied
 belligerent
+belly-up
 bellying
 bellyless
 beloved
+below the belt
 belowground
+belt-fed
+belt-like
+belt-shaped
 belted
 beltless
 beltlike
@@ -1854,6 +2841,7 @@ benighted
 benign
 benignant
 bent
+bent on
 benthal
 benthic
 benthonic
@@ -1875,11 +2863,17 @@ bespoke
 bespoken
 besprent
 best
+best-known
+best-loved
+best-selling
 bestial
 bestubbled
 beta
 betrothed
 better
+better off
+better-known
+better-looking
 bettering
 betting
 betulaceous
@@ -1887,6 +2881,7 @@ bewhiskered
 bewildered
 bewitched
 bewitching
+beyond doubt
 biannual
 bias
 biased
@@ -1947,6 +2942,11 @@ biform
 bifurcate
 bifurcated
 big
+big-bellied
+big-boned
+big-chested
+big-shouldered
+big-ticket
 bigamous
 bigeminal
 bigeneric
@@ -1960,6 +2960,8 @@ bigoted
 bilabial
 bilabiate
 bilateral
+bilaterally symmetric
+bilaterally symmetrical
 bilgy
 biliary
 bilinear
@@ -2038,6 +3040,7 @@ biradial
 biramous
 birch
 birchen
+bird's-eye
 birefringent
 birken
 bisectional
@@ -2050,6 +3053,7 @@ bistered
 bistred
 bistroic
 bisulcate
+bit-by-bit
 bitchy
 biting
 bitter
@@ -2071,9 +3075,26 @@ bizonal
 blabbermouthed
 blabby
 black
+black and white
+black-and-blue
+black-and-tan
+black-and-white
+black-barred
+black-coated
+black-gray
+black-grey
+black-haired
+black-marked
+black-market
+black-seeded
+black-tie
 blackened
 blackguardly
 blackish
+blackish-brown
+blackish-gray
+blackish-grey
+blackish-red
 bladderlike
 bladdery
 bladed
@@ -2116,7 +3137,9 @@ blazing
 bleached
 bleak
 blear
+blear-eyed
 bleary
+bleary-eyed
 blebbed
 blebby
 blemished
@@ -2126,6 +3149,7 @@ blest
 blighted
 blimpish
 blind
+blind drunk
 blinded
 blindfold
 blindfolded
@@ -2144,6 +3168,10 @@ blockish
 blocky
 blond
 blonde
+blood-and-guts
+blood-filled
+blood-red
+blood-related
 bloodcurdling
 blooded
 bloodguilty
@@ -2153,19 +3181,48 @@ bloodstained
 bloodsucking
 bloodthirsty
 bloody
+bloody-minded
 blooming
 blotched
 blotchy
+blotted out
 blotto
+blow-by-blow
 blown
+blown-up
 blowsy
 blowy
 blowzy
 blubbery
 blue
+blue-black
+blue-blind
+blue-blooded
+blue-chip
+blue-collar
+blue-eyed
+blue-flowered
+blue-fruited
+blue-gray
+blue-green
+blue-grey
+blue-lilac
+blue-purple
+blue-ribbon
+blue-sky
+blue-violet
+blue-white
 blueish
 bluff
 bluish
+bluish black
+bluish green
+bluish-gray
+bluish-grey
+bluish-lilac
+bluish-purple
+bluish-violet
+bluish-white
 blunt
 blunted
 blurred
@@ -2176,6 +3233,7 @@ blustering
 blusterous
 blustery
 boastful
+boat-shaped
 bobtail
 bobtailed
 bodacious
@@ -2195,8 +3253,14 @@ bolometric
 bolshy
 bombastic
 bombproof
+bona fide
 bondable
 bone
+bone dry
+bone-covered
+bone-dry
+bone-idle
+bone-lazy
 boned
 boneheaded
 boneless
@@ -2206,6 +3270,7 @@ bonkers
 bonnie
 bonny
 bony
+bony-plated
 bonzer
 bookable
 booked
@@ -2213,6 +3278,7 @@ bookish
 booming
 boon
 boorish
+boot-shaped
 booted
 bootleg
 bootless
@@ -2227,12 +3293,14 @@ bored
 boric
 boring
 born
+born-again
 boronic
 boskopoid
 bosky
 bosomed
 bosomy
 boss
+boss-eyed
 bossy
 botanic
 botanical
@@ -2245,7 +3313,13 @@ botonee
 botonnee
 botryoid
 botryoidal
+bottle-fed
+bottle-green
+bottle-shaped
 bottom
+bottom-dwelling
+bottom-feeding
+bottom-up
 bottomed
 bottomless
 bottommost
@@ -2260,6 +3334,7 @@ bouldery
 bouncing
 bouncy
 bound
+bound up
 bounded
 bounden
 bounderish
@@ -2272,13 +3347,18 @@ boustrophedonic
 bovid
 bovine
 bowed
+bowed down
 bowelless
 bowery
 bowfront
 bowing
+bowl-shaped
 bowleg
 bowlegged
+box-shaped
 boxed
+boxed in
+boxed-in
 boxlike
 boxy
 boyish
@@ -2309,6 +3389,7 @@ braggy
 brahminic
 brahminical
 braided
+brain dead
 brainish
 brainless
 brainsick
@@ -2318,6 +3399,7 @@ braised
 braky
 braless
 brambly
+bran-new
 branched
 branchial
 branchiate
@@ -2327,6 +3409,7 @@ branchiopodan
 branchiopodous
 branchless
 branchy
+brand-new
 branded
 brash
 brassbound
@@ -2338,21 +3421,25 @@ brave
 braw
 brawny
 brazen
+brazen-faced
 breakable
 breakaway
 breakneck
+breast-fed
 breasted
 breastless
 breathed
 breathing
 breathless
 breathtaking
+breech-loading
 breeched
 breeding
 breezy
 bregmatic
 briary
 bribable
+brick-shaped
 brickle
 brickly
 bridal
@@ -2361,6 +3448,11 @@ brief
 briefless
 briery
 bright
+bright as a new penny
+bright blue
+bright-red
+brightly-colored
+brightly-coloured
 brilliant
 brimful
 brimfull
@@ -2369,15 +3461,23 @@ brimming
 brinded
 brindle
 brindled
+brine-cured
 briny
 brisant
 brisk
+bristle-pointed
 bristled
 bristlelike
 bristly
 brittle
 broached
 broad
+broad-brimmed
+broad-headed
+broad-leafed
+broad-leaved
+broad-minded
+broad-shouldered
 broadband
 broadleaf
 broadloom
@@ -2387,6 +3487,10 @@ brocaded
 broiled
 broke
 broken
+broken in
+broken-backed
+broken-down
+broken-field
 brokenhearted
 bromic
 bromidic
@@ -2395,6 +3499,7 @@ bronchiolar
 bronchitic
 bronchoscopic
 bronze
+bronze-red
 bronzed
 bronzy
 brooding
@@ -2402,8 +3507,27 @@ broody
 brotherlike
 brotherly
 brown
+brown-black
+brown-gray
+brown-green
+brown-grey
+brown-haired
+brown-purple
+brown-speckled
+brown-striped
 browned
+browned off
 brownish
+brownish-black
+brownish-gray
+brownish-green
+brownish-grey
+brownish-orange
+brownish-purple
+brownish-red
+brownish-speckled
+brownish-striped
+brownish-yellow
 bruising
 brumal
 brumous
@@ -2424,18 +3548,28 @@ bubbling
 bubbly
 bubonic
 buccal
+buck-toothed
+bucked up
 buckram
 buckshee
 bucolic
 budding
+buddy-buddy
 budgetary
 buff
+buff-brown
+buff-colored
+buff-coloured
 buffeted
 buffoonish
+bug out
 bugged
 buggy
 built
+built-in
+built-up
 buirdly
+bulb-shaped
 bulbaceous
 bulbar
 bulbed
@@ -2446,6 +3580,7 @@ bulgy
 bulimic
 bulky
 bullate
+bullet-headed
 bulletproof
 bullheaded
 bullish
@@ -2455,10 +3590,12 @@ bully
 bullying
 bum
 bumbling
+bumper-to-bumper
 bumpkinly
 bumptious
 bumpy
 bunchy
+bundled-up
 bungaloid
 bungled
 bunglesome
@@ -2479,15 +3616,20 @@ burlesque
 burly
 burnable
 burned
+burned-out
+burned-over
 burning
 burnished
 burnt
+burnt-out
+burr-headed
 burred
 burrlike
 burry
 bursal
 bursiform
 bush
+bush-league
 bushed
 bushwhacking
 bushy
@@ -2502,8 +3644,13 @@ butch
 butcherly
 buteonine
 butterfingered
+butterfly-shaped
 buttery
+button-down
+button-shaped
 buttoned
+buttoned-down
+buttoned-up
 buttonlike
 buttony
 buttressed
@@ -2568,6 +3715,7 @@ calendered
 calendric
 calendrical
 calibrated
+caliche-topped
 calico
 calicular
 caliginous
@@ -2584,6 +3732,7 @@ calloused
 callow
 calm
 caloric
+calorie-free
 calorifacient
 calorific
 calorimetric
@@ -2599,6 +3748,7 @@ calyptrate
 cambial
 camouflaged
 camp
+camp-made
 campanular
 campanulate
 campanulated
@@ -2608,9 +3758,11 @@ camphorated
 camphoric
 campy
 campylotropous
+can-do
 canalicular
 canaliculate
 canary
+canary-yellow
 cancellate
 cancellated
 cancelled
@@ -2621,6 +3773,8 @@ candent
 candescent
 candid
 candied
+candy-like
+candy-scented
 canescent
 canicular
 canine
@@ -2665,6 +3819,7 @@ captivated
 captivating
 captive
 caramel
+caramel brown
 carangid
 carbocyclic
 carbolated
@@ -2681,6 +3836,7 @@ carbuncled
 carbuncular
 carcinogenic
 carcinomatous
+card-playing
 cardboard
 cardiac
 cardinal
@@ -2689,6 +3845,8 @@ cardiologic
 cardiopulmonary
 cardiorespiratory
 cardiovascular
+care-laden
+cared-for
 carefree
 careful
 careless
@@ -2725,14 +3883,21 @@ carunculate
 carunculated
 carunculous
 carved
+carved in stone
+carvel-built
 carven
 caryophyllaceous
+case-by-case
+case-hardened
 casebook
 cased
 caseous
+cash-and-carry
 cashable
 cashed
 cassocked
+cast-iron
+cast-off
 casteless
 castellated
 castled
@@ -2740,6 +3905,7 @@ castrated
 casual
 casuistic
 casuistical
+cata-cornered
 catabatic
 catabolic
 catachrestic
@@ -2778,7 +3944,10 @@ categorical
 categorised
 categorized
 catenulate
+cater-corner
+cater-cornered
 catercorner
+caterpillar-tracked
 cathartic
 cathectic
 cathedral
@@ -2791,9 +3960,13 @@ catoptric
 catoptrical
 cattish
 catty
+catty corner
+catty-corner
+catty-cornered
 caudal
 caudate
 caudated
+caught up
 caulescent
 cauline
 caulked
@@ -2811,6 +3984,7 @@ ccc
 cd
 ceaseless
 cecal
+cedar-scented
 cedarn
 ceilinged
 celebrated
@@ -2818,6 +3992,8 @@ celebratory
 celestial
 celiac
 celibate
+cell-free
+cell-like
 cellular
 celluloid
 cellulosid
@@ -2919,6 +4095,8 @@ chapped
 characteristic
 characterless
 charcoal
+charcoal-gray
+charcoal-grey
 chargeable
 charged
 charismatic
@@ -2945,6 +4123,7 @@ cheerful
 cheering
 cheerless
 cheery
+cheesed off
 cheeselike
 cheeseparing
 cheesy
@@ -2966,9 +4145,14 @@ chemotherapeutical
 chequered
 cherished
 cherry
+cherry-red
+cherry-sized
 cherty
 cherubic
 chestnut
+chestnut-brown
+chestnut-colored
+chestnut-coloured
 chesty
 chewable
 chewy
@@ -2978,9 +4162,11 @@ chiasmic
 chic
 chichi
 chicken
+chicken-breasted
 chickenhearted
 chief
 chilblained
+child-centered
 childbearing
 childish
 childless
@@ -2999,6 +4185,7 @@ chintzy
 chipper
 chiromantic
 chirpy
+chisel-like
 chiseled
 chitinous
 chivalric
@@ -3008,9 +4195,14 @@ chlamydial
 chlorophyllose
 chlorophyllous
 chlorotic
+chock-full
 chockablock
 chockful
+chocolate-brown
+chocolate-colored
+chocolate-coloured
 choice
+choke-full
 choked
 choky
 choleraic
@@ -3044,12 +4236,15 @@ chronological
 chthonian
 chthonic
 chubby
+chuck-full
 chuffed
+chukker-brown
 chummy
 chunky
 churchgoing
 churchly
 churlish
+churned-up
 churning
 churrigueresco
 churrigueresque
@@ -3060,6 +4255,7 @@ chyliferous
 chylific
 chylous
 ci
+cigar-shaped
 cilial
 ciliary
 ciliate
@@ -3067,10 +4263,17 @@ ciliated
 cinematic
 cinerary
 cinnabar
+cinnamon colored
+cinnamon coloured
+cinnamon-colored
+cinnamon-coloured
+cinnamon-red
+cinnamon-scented
 circadian
 circinate
 circuitous
 circular
+circular-knit
 circulating
 circulative
 circulatory
@@ -3091,10 +4294,14 @@ cissy
 citified
 citric
 citrous
+city-born
+city-bred
+city-like
 cityfied
 citywide
 civic
 civil
+civil-libertarian
 civilian
 civilised
 civilized
@@ -3110,9 +4317,11 @@ clanging
 clangorous
 clanking
 clannish
+clapped out
 clarifying
 clarion
 clashing
+class-conscious
 classic
 classical
 classicistic
@@ -3126,14 +4335,25 @@ clathrate
 clattery
 clausal
 claustrophobic
+claw-shaped
 clawed
 clawlike
 clayey
 clean
+clean-burning
+clean-cut
+clean-handed
+clean-limbed
+clean-living
+clean-shaven
 cleanable
 cleanly
 cleansing
 clear
+clear-cut
+clear-eyed
+clear-sighted
+clear-thinking
 cleared
 clearheaded
 cleavable
@@ -3145,18 +4365,24 @@ clenched
 clerical
 clever
 cliched
+client-server
+cliff-hanging
 climactic
 climatic
 climatical
 climbable
 clinched
+clincher-built
 clinical
+clinker-built
 clinking
 clinquant
+clip-on
 clipped
 cliquish
 clitoral
 clitoric
+cloak-and-dagger
 cloaked
 clockwise
 cloddish
@@ -3169,23 +4395,47 @@ cloistral
 clonal
 clonic
 close
+close at hand
+close set
+close together
+close-fitting
+close-grained
+close-hauled
+close-knit
+close-minded
+close-packed
+close-set
 closed
+closed in
+closed-captioned
+closed-chain
+closed-circuit
+closed-door
+closed-minded
+closed-ring
 closefisted
 closelipped
+closely knit
+closely-held
 closemouthed
 closing
 clothed
 clothesless
 clotted
+cloud-covered
 clouded
 cloudless
 cloudlike
 cloudy
+clove-scented
 cloven
+cloven-footed
+cloven-hoofed
 clownish
 clownlike
 cloying
 cloze
+club-shaped
 clubable
 clubbable
 clubbish
@@ -3202,14 +4452,25 @@ clxv
 clxx
 clxxv
 clxxx
+co-ed
+co-occurrent
+co-ordinated
+co-referent
 coagulable
 coagulate
 coagulated
+coal-black
+coal-burning
+coal-fired
 coalesced
 coalescent
 coalescing
 coarctate
 coarse
+coarse-furred
+coarse-grained
+coarse-haired
+coarse-textured
 coarsened
 coastal
 coastwise
@@ -3222,6 +4483,7 @@ coccal
 coccoid
 coccygeal
 cochlear
+cock-a-hoop
 cockamamie
 cockamamy
 cockeyed
@@ -3256,11 +4518,16 @@ coherent
 cohesive
 coiled
 coiling
+coin-operated
 coincident
 coincidental
 coinciding
 coital
 cold
+cold sober
+cold-blooded
+cold-eyed
+cold-temperate
 coldhearted
 colicky
 collaborative
@@ -3291,6 +4558,7 @@ colonised
 colonized
 colonnaded
 color
+color-blind
 colorectal
 colored
 colorfast
@@ -3300,6 +4568,7 @@ colorimetrical
 colorless
 colossal
 colour
+colour-blind
 coloured
 colourful
 colourless
@@ -3311,6 +4580,8 @@ columnlike
 comal
 comate
 comatose
+comb-like
+combat-ready
 combatant
 combative
 combed
@@ -3324,8 +4595,10 @@ comburant
 comburent
 combustible
 combustive
+come-at-able
 comely
 comestible
+comet-like
 cometary
 cometic
 comfortable
@@ -3337,6 +4610,7 @@ comic
 comical
 coming
 commanding
+comme il faut
 commemorating
 commemorative
 commendable
@@ -3344,6 +4618,7 @@ commensal
 commensurable
 commensurate
 commercial
+commercial-grade
 commercialised
 commercialized
 comminatory
@@ -3352,6 +4627,8 @@ commissioned
 committed
 commodious
 common
+common or garden
+common-law
 commonplace
 commonsense
 commonsensible
@@ -3370,6 +4647,8 @@ compact
 companionable
 companionate
 comparable
+comparable to
+comparable with
 comparative
 compartmental
 compartmentalised
@@ -3397,6 +4676,7 @@ complex
 compliant
 complicated
 complimentary
+compos mentis
 composed
 composite
 compositional
@@ -3413,8 +4693,12 @@ compulsive
 compulsory
 computable
 computational
+computer readable
 comradely
+con brio
 concave
+concavo-concave
+concavo-convex
 concealed
 concealing
 conceited
@@ -3454,6 +4738,8 @@ condolent
 conducive
 conductive
 condylar
+cone-bearing
+cone-shaped
 conelike
 confederate
 confederative
@@ -3516,11 +4802,13 @@ connective
 conniving
 connotational
 connotative
+connotative of
 connubial
 conquerable
 consanguine
 consanguineal
 consanguineous
+conscience-smitten
 conscienceless
 conscientious
 conscionable
@@ -3563,6 +4851,7 @@ constricted
 constricting
 constrictive
 constructive
+constructive-metabolic
 consubstantial
 consular
 consultative
@@ -3592,8 +4881,11 @@ contested
 contextual
 contiguous
 continent
+continent-wide
 continental
 contingent
+contingent on
+contingent upon
 continual
 continuant
 continued
@@ -3614,6 +4906,7 @@ contralto
 contrapuntal
 contrarious
 contrary
+contrary to fact
 contrasting
 contrastive
 contrasty
@@ -3641,6 +4934,8 @@ converse
 converted
 convertible
 convex
+convexo-concave
+convexo-convex
 conveyable
 convinced
 convincible
@@ -3651,7 +4946,10 @@ convoluted
 convulsive
 cooccurring
 cooked
+cookie-cutter
+cookie-sized
 cool
+cool-white
 coolheaded
 cooperative
 coordinate
@@ -3664,6 +4962,8 @@ copesetic
 copesettic
 copious
 coplanar
+copper colored
+copper-bottomed
 coppery
 copular
 copulative
@@ -3671,6 +4971,7 @@ copulatory
 copyrighted
 coquettish
 coral
+coral-red
 corbelled
 cordate
 corded
@@ -3686,6 +4987,7 @@ corking
 corky
 cormose
 cormous
+corn-fed
 corneal
 corned
 corneous
@@ -3715,6 +5017,7 @@ corroborant
 corroborative
 corroboratory
 corroded
+corrosion-resistant
 corrosive
 corrugated
 corrupt
@@ -3725,6 +5028,7 @@ corruptive
 cortical
 corticifugal
 corticipetal
+cortico-hypothalamic
 corticoafferent
 corticoefferent
 corticofugal
@@ -3743,6 +5047,9 @@ cosmogonical
 cosmologic
 cosmological
 cosmopolitan
+cost-effective
+cost-efficient
+cost-plus
 costal
 costate
 costive
@@ -3752,6 +5059,7 @@ costumed
 cosy
 coterminous
 cottony
+cottony-white
 cotyloid
 cotyloidal
 couchant
@@ -3772,11 +5080,14 @@ counterterror
 counterterrorist
 countless
 countrified
+country-bred
+country-style
 countryfied
 countrywide
 countywide
 coupled
 courageous
+court-ordered
 courteous
 courtly
 cousinly
@@ -3790,6 +5101,7 @@ covert
 coveted
 covetous
 cowardly
+cowl-shaped
 cowled
 coy
 cozy
@@ -3799,6 +5111,7 @@ crabwise
 crack
 crackbrained
 cracked
+cracker-barrel
 crackers
 cracking
 crackle
@@ -3806,6 +5119,7 @@ crafty
 cragfast
 cragged
 craggy
+cram full
 cramped
 cranial
 craniometric
@@ -3823,7 +5137,12 @@ craven
 crazed
 crazy
 creaky
+cream-colored
 creamy
+creamy-colored
+creamy-white
+creamy-yellow
+crease-resistant
 creaseless
 creaseproof
 creative
@@ -3836,6 +5155,7 @@ creditworthy
 credulous
 creedal
 creepy
+creepy-crawly
 crenate
 crenated
 crenulate
@@ -3843,6 +5163,8 @@ crenulated
 crepuscular
 crescendo
 crescent
+crescent-shaped
+cress green
 cresson
 crested
 crestfallen
@@ -3853,6 +5175,9 @@ criminative
 criminatory
 criminological
 crimson
+crimson-magenta
+crimson-purple
+crimson-yellow
 cringing
 crinkled
 crinkly
@@ -3876,6 +5201,19 @@ crookbacked
 crooked
 cropped
 cross
+cross-banded
+cross-cultural
+cross-eyed
+cross-grained
+cross-linguistic
+cross-modal
+cross-ply
+cross-pollinating
+cross-section
+cross-sectional
+cross-sentential
+cross-shaped
+cross-town
 crossbred
 crossed
 crosshatched
@@ -3883,6 +5221,7 @@ crosstown
 crosswise
 crotchety
 croupy
+crow-sized
 crowded
 crowing
 crowned
@@ -3922,12 +5261,14 @@ cryptographic
 cryptographical
 cryptologic
 cryptological
+crystal clear
 crystalised
 crystalized
 crystalline
 crystallised
 crystallized
 ctenoid
+cube-shaped
 cubelike
 cubic
 cubical
@@ -3937,6 +5278,7 @@ cubistic
 cubital
 cuboid
 cuboidal
+cucumber-shaped
 cucurbitaceous
 cuddlesome
 cuddly
@@ -3947,6 +5289,7 @@ cultivatable
 cultivated
 cultural
 cultured
+cum laude
 cumbersome
 cumbrous
 cumulative
@@ -3970,11 +5313,17 @@ curious
 curled
 curling
 curly
+curly-coated
+curly-grained
+curly-haired
+curly-leafed
+curly-leaved
 curmudgeonly
 current
 curricular
 currish
 cursed
+cursed with
 cursive
 cursorial
 cursory
@@ -4000,10 +5349,20 @@ cuspidal
 cuspidate
 cuspidated
 cussed
+custard-like
 custodial
 custom
+custom-built
+custom-made
 customary
 cut
+cut off
+cut out
+cut up
+cut-and-dried
+cut-and-dry
+cut-price
+cut-rate
 cutaneal
 cutaneous
 cute
@@ -4011,6 +5370,7 @@ cuticular
 cuttable
 cutthroat
 cutting
+cutting-edge
 cv
 cx
 cxl
@@ -4036,6 +5396,7 @@ cyclopean
 cyclothymic
 cylindric
 cylindrical
+cylindrical-stemmed
 cymose
 cynical
 cyprian
@@ -4060,11 +5421,13 @@ cytotoxic
 czarist
 czaristic
 d
+d.o.a.
 dabbled
 dacitic
 dactylic
 daedal
 daft
+dagger-like
 daily
 dainty
 daisylike
@@ -4090,6 +5453,18 @@ dappled
 daredevil
 daring
 dark
+dark-blue
+dark-brown
+dark-coated
+dark-colored
+dark-coloured
+dark-fruited
+dark-gray
+dark-green
+dark-grey
+dark-haired
+dark-skinned
+dark-spotted
 darkened
 darkening
 darkish
@@ -4100,6 +5475,7 @@ dashed
 dashing
 dastard
 dastardly
+data-based
 datable
 dateable
 dated
@@ -4108,20 +5484,39 @@ daughterly
 daunted
 daunting
 dauntless
+day-after-day
+day-and-night
+day-by-day
+day-old
+day-to-day
 daylong
 dazed
 dazzled
 dazzling
+de facto
+de jure
+de luxe
+de rigueur
+de-iodinating
 dead
+dead on target
+dead set
+dead-end
+dead-on
 deadened
 deadening
 deadlocked
 deadly
 deadpan
 deaf
+deaf as a post
+deaf-and-dumb
+deaf-mute
 deafened
 deafening
+dealt out
 dear
+dearly-won
 deathless
 deathlike
 deathly
@@ -4158,6 +5553,7 @@ decimal
 decipherable
 deciphered
 decisive
+deckle-edged
 deckled
 declamatory
 declarable
@@ -4177,6 +5573,7 @@ decorative
 decorous
 decreased
 decreasing
+decreasing monotonic
 decreed
 decrepit
 decrescendo
@@ -4189,6 +5586,20 @@ deducible
 deductible
 deductive
 deep
+deep in thought
+deep-chested
+deep-eyed
+deep-fried
+deep-laid
+deep-lobed
+deep-mined
+deep-pink
+deep-rooted
+deep-sea
+deep-seated
+deep-set
+deep-water
+deep-yellow
 deepening
 defamatory
 defeasible
@@ -4266,12 +5677,14 @@ democratic
 demode
 demographic
 demolished
+demon-ridden
 demoniac
 demoniacal
 demonic
 demonstrable
 demonstrated
 demonstrative
+demonstrative of
 demoralised
 demoralising
 demoralized
@@ -4310,7 +5723,12 @@ departed
 departmental
 dependable
 dependant
+dependant on
+dependant upon
 dependent
+dependent on
+dependent upon
+depending on
 depicted
 depictive
 depilatory
@@ -4366,6 +5784,7 @@ designing
 desirable
 desired
 desirous
+desk-bound
 deskbound
 desolate
 despairing
@@ -4383,6 +5802,7 @@ destroyable
 destroyed
 destructible
 destructive
+destructive-metabolic
 desultory
 detachable
 detached
@@ -4413,6 +5833,7 @@ developing
 developmental
 deviant
 deviate
+devil-may-care
 devilish
 devious
 devoid
@@ -4421,6 +5842,7 @@ devotional
 devouring
 devout
 dewy
+dewy-eyed
 dexter
 dexterous
 dextral
@@ -4479,6 +5901,8 @@ dictatorial
 dictyopteran
 didactic
 didactical
+die-cast
+die-hard
 diestrous
 diestrual
 dietary
@@ -4514,6 +5938,8 @@ diluted
 diluvial
 diluvian
 dim
+dim-sighted
+dim-witted
 dimensional
 dimensioning
 diminished
@@ -4547,7 +5973,10 @@ directive
 direful
 dirigible
 dirt
+dirt cheap
 dirty
+dirty-faced
+dirty-minded
 disabled
 disabling
 disabused
@@ -4564,6 +5993,7 @@ disarrayed
 disastrous
 disavowable
 disbelieving
+disc-shaped
 discalceate
 discalced
 discarded
@@ -4628,6 +6058,7 @@ disguised
 disgusted
 disgustful
 disgusting
+dish-shaped
 disharmonious
 disheartened
 disheartening
@@ -4653,6 +6084,7 @@ disjoint
 disjointed
 disjunct
 disjunctive
+disk-shaped
 disklike
 dislikable
 disliked
@@ -4762,6 +6194,7 @@ diverted
 diverting
 dividable
 divided
+divided up
 divinatory
 divine
 divisible
@@ -4771,6 +6204,9 @@ divorced
 dizygotic
 dizygous
 dizzy
+do-it-yourself
+do-nothing
+do-or-die
 doable
 docile
 doctoral
@@ -4783,6 +6219,9 @@ documented
 doddering
 doddery
 dodgy
+dog-eared
+dog-sized
+dog-tired
 dogged
 dogging
 doglike
@@ -4790,14 +6229,17 @@ dogmatic
 dogmatical
 dolabrate
 dolabriform
+doled out
 doleful
 dolichocephalic
 dolichocranial
 dolichocranic
+dolled up
 dolomitic
 dolorous
 dolourous
 doltish
+dome-shaped
 domed
 domestic
 domesticated
@@ -4808,8 +6250,11 @@ dominating
 domineering
 dominical
 done
+done for
+done with
 donnish
 doomed
+door-to-door
 doped
 dopey
 dopy
@@ -4820,13 +6265,32 @@ dormy
 dorsal
 dorsoventral
 dosed
+dot com
+dot-com
 doting
 dotted
 dotty
 double
+double-barreled
+double-barrelled
+double-bass
+double-bedded
+double-breasted
+double-chinned
+double-dealing
+double-dyed
+double-edged
+double-faced
+double-geared
+double-humped
+double-jointed
+double-quick
+double-spaced
+double-tongued
 doubled
 doubtful
 doubting
+doughnut-shaped
 doughy
 dour
 dovish
@@ -4834,6 +6298,10 @@ dowdy
 dowered
 dowerless
 down
+down in the mouth
+down pat
+down-and-out
+down-to-earth
 downbound
 downcast
 downfield
@@ -4850,6 +6318,8 @@ downstream
 downtown
 downtrodden
 downward
+downward-arching
+downward-sloping
 downwind
 downy
 dozen
@@ -4867,6 +6337,7 @@ draped
 drastic
 draughty
 drawn
+drawn-out
 dread
 dreaded
 dreadful
@@ -4877,13 +6348,21 @@ dreamy
 drear
 dreary
 drenched
+drenched in
 dress
 dressed
+dressed to kill
+dressed to the nines
+dressed-up
 dressy
 dried
+dried-out
+dried-up
 drifting
+drill-like
 drilled
 drinkable
+drip-dry
 dripless
 drippy
 driven
@@ -4898,18 +6377,27 @@ dropsical
 drowsing
 drowsy
 drudging
+drug-addicted
+drug-free
 drugged
 drugless
+drum-like
+drum-shaped
 drumhead
 drunk
 drunken
 drupaceous
 dry
+dry-cleaned
+dry-eyed
+dry-shod
 dual
+dual-lane
 dualistic
 dubious
 dubitable
 ducal
+duck-billed
 duckbill
 ductile
 ductless
@@ -4917,6 +6405,8 @@ dud
 due
 dulcet
 dull
+dull-purple
+dull-white
 dulled
 dumb
 dumbfounded
@@ -4928,6 +6418,8 @@ dumfounding
 dummy
 dumpy
 dun
+dun-colored
+dun-coloured
 duncical
 duncish
 duodecimal
@@ -4941,11 +6433,16 @@ duplicitous
 durable
 dural
 dusky
+dusky-colored
+dusky-coloured
+dust-covered
 dustlike
 dusty
 duteous
 dutiable
 dutiful
+duty-bound
+duty-free
 dwarfish
 dwindling
 dyadic
@@ -4970,11 +6467,16 @@ dyspnoeic
 dystopian
 each
 eager
+eagle-eyed
+ear-like
+ear-shaped
 eared
 earless
 earlier
 earliest
 early
+early-blooming
+early-flowering
 earlyish
 earned
 earnest
@@ -4988,6 +6490,7 @@ earthshaking
 earthy
 eased
 east
+east-central
 eastbound
 easterly
 eastern
@@ -5044,6 +6547,7 @@ editorial
 educated
 educational
 educative
+eel-shaped
 eellike
 eerie
 eery
@@ -5065,6 +6569,9 @@ effortless
 effulgent
 effusive
 egalitarian
+egg-filled
+egg-producing
+egg-shaped
 egocentric
 egoistic
 egoistical
@@ -5073,6 +6580,10 @@ egotistical
 egregious
 eidetic
 eight
+eight-day
+eight-fold
+eight-membered
+eight-sided
 eighteen
 eighteenth
 eightfold
@@ -5080,6 +6591,16 @@ eighth
 eightieth
 eightpenny
 eighty
+eighty-eight
+eighty-fifth
+eighty-five
+eighty-four
+eighty-nine
+eighty-one
+eighty-seven
+eighty-six
+eighty-three
+eighty-two
 elaborate
 elaborated
 elapsed
@@ -5106,6 +6627,7 @@ electrolytic
 electromagnetic
 electromechanical
 electromotive
+electron microscopic
 electronegative
 electroneutral
 electronic
@@ -5120,6 +6642,7 @@ elementary
 elephantine
 elevated
 eleven
+eleven-sided
 eleventh
 elfin
 elfish
@@ -5184,10 +6707,15 @@ employable
 employed
 empowered
 empty
+empty-bellied
+empty-handed
+empty-headed
 empurpled
 empyreal
 empyrean
 emulous
+en deshabille
+en garde
 enabling
 enamored
 enate
@@ -5211,6 +6739,9 @@ encyclical
 encyclopaedic
 encyclopedic
 encysted
+end-rhymed
+end-stopped
+end-to-end
 endangered
 endearing
 ended
@@ -5246,6 +6777,9 @@ enduring
 energetic
 energising
 energizing
+energy-absorbing
+energy-releasing
+energy-storing
 enervated
 enervating
 enfeebling
@@ -5353,11 +6887,13 @@ epitheliod
 epizoan
 epizoic
 epizootic
+epoch-making
 epochal
 eponymic
 eponymous
 equable
 equal
+equal to
 equanimous
 equatorial
 equestrian
@@ -5397,6 +6933,7 @@ erratic
 errhine
 erring
 erroneous
+error-prone
 errorless
 ersatz
 erstwhile
@@ -5470,24 +7007,38 @@ evaporated
 evaporative
 evasive
 even
+even-pinnate
+even-tempered
+even-textured
+even-toed
 evenhanded
 eventful
 eventual
+ever-changing
+ever-present
 evergreen
 everlasting
 every
+every last
 everyday
 evidenced
 evident
 evidential
 evidentiary
 evil
+evil-looking
+evil-minded
 eviscerate
 evitable
 evocative
 evoked
 evolutionary
 ex
+ex gratia
+ex officio
+ex post facto
+ex vivo
+ex-directory
 exacerbating
 exact
 exacting
@@ -5681,14 +7232,20 @@ exuberant
 exultant
 exulting
 exuvial
+eye-catching
+eye-deceiving
+eye-popping
 eyed
 eyeless
 eyelike
+eyes-only
 fab
 fabian
 fabled
 fabricated
 fabulous
+face-saving
+face-to-face
 faced
 faceless
 faceted
@@ -5697,9 +7254,13 @@ facial
 facile
 facilitative
 facilitatory
+fact-finding
 factious
 factitious
+factor analytic
+factor analytical
 factorial
+factory-made
 factual
 facultative
 faddish
@@ -5707,12 +7268,18 @@ faddy
 faded
 faecal
 fagged
+fail-safe
 failing
 fain
 faineant
 faint
+faint-hearted
 fainthearted
 fair
+fair to middling
+fair-and-square
+fair-haired
+fair-minded
 fairish
 faithful
 faithless
@@ -5720,6 +7287,8 @@ fake
 falcate
 falciform
 falconine
+fall-blooming
+fall-flowering
 fallacious
 fallen
 fallible
@@ -5738,11 +7307,16 @@ familiarized
 familiarizing
 famished
 famous
+fan-leafed
+fan-leaved
+fan-shaped
 fanatic
 fanatical
 fancied
 fanciful
 fancy
+fancy-free
+fang-like
 fanged
 fanlike
 fanned
@@ -5750,6 +7324,12 @@ fantabulous
 fantastic
 fantastical
 far
+far left
+far-famed
+far-flung
+far-off
+far-out
+far-right
 faraway
 farcical
 farfetched
@@ -5767,10 +7347,18 @@ fascistic
 fashionable
 fashioned
 fast
+fast asleep
+fast-breaking
+fast-flying
+fast-footed
+fast-growing
+fast-paced
 fastened
 fastidious
 fastigiate
 fat
+fat-free
+fat-soluble
 fatal
 fatalist
 fatalistic
@@ -5799,6 +7387,8 @@ favored
 favorite
 favourable
 favourite
+fawn-colored
+fawn-coloured
 fawning
 fazed
 fearful
@@ -5818,6 +7408,7 @@ fecal
 feckless
 feculent
 fecund
+fed up
 federal
 federate
 federated
@@ -5867,7 +7458,9 @@ few
 fewer
 fewest
 fey
+fiber-optic
 fiberoptic
+fibre-optic
 fibreoptic
 fibrillose
 fibrinous
@@ -5879,10 +7472,12 @@ fictile
 fictional
 fictitious
 fictive
+fiddle-shaped
 fiddling
 fidgety
 fiducial
 fiduciary
+field-crop
 fiendish
 fierce
 fiery
@@ -5891,6 +7486,18 @@ fifteenth
 fifth
 fiftieth
 fifty
+fifty-eight
+fifty-fifth
+fifty-fifty
+fifty-five
+fifty-four
+fifty-nine
+fifty-one
+fifty-seven
+fifty-six
+fifty-three
+fifty-two
+fig-shaped
 fighting
 figural
 figurative
@@ -5900,18 +7507,28 @@ filamentous
 filar
 filarial
 filariid
+file-like
 filial
 filiform
 filled
 filmable
 filmed
 filmy
+filter-tipped
 filthy
 fimbriate
+fin de siecle
 finable
 final
 financial
 fine
+fine-grained
+fine-leafed
+fine-leaved
+fine-looking
+fine-textured
+fine-tooth
+fine-toothed
 fineable
 finer
 finespun
@@ -5922,11 +7539,20 @@ finical
 finicky
 finished
 finite
+fire-resistant
+fire-resisting
+fire-resistive
+fire-retardant
 fired
 fireproof
 firm
 firmamental
 first
+first-class
+first-come-first-serve
+first-rate
+first-string
+first-year
 firstborn
 firsthand
 fiscal
@@ -5941,9 +7567,21 @@ fistulous
 fit
 fitful
 fitted
+fitted out
 fitter
 fitting
 five
+five hundred
+five-fold
+five-hundredth
+five-lobed
+five-membered
+five-needled
+five-petaled
+five-petalled
+five-pointed
+five-sided
+five-year-old
 fivefold
 fixed
 fizzing
@@ -5951,6 +7589,7 @@ fizzy
 flabbergasted
 flabby
 flaccid
+flag-waving
 flagellate
 flagellated
 flagging
@@ -5959,18 +7598,31 @@ flagrant
 flakey
 flaky
 flamboyant
+flame-colored
+flame-coloured
+flame-orange
+flame-retardant
 flameproof
 flaming
 flammable
 flaring
 flash
+flash-frozen
 flashy
 flat
+flat-bellied
+flat-bottom
+flat-bottomed
+flat-footed
+flat-growing
+flat-top
+flat-topped
 flatbottom
 flatbottomed
 flattened
 flattering
 flatulent
+flatus-relieving
 flaunty
 flavorful
 flavorless
@@ -5983,6 +7635,7 @@ flavoursome
 flawed
 flawless
 flaxen
+flea-bitten
 flecked
 fledged
 fledgeless
@@ -5993,6 +7646,10 @@ fleecy
 fleek
 fleet
 fleeting
+flesh-colored
+flesh-coloured
+flesh-eating
+fleshed out
 fleshly
 fleshy
 flexible
@@ -6007,6 +7664,7 @@ flint
 flinty
 flip
 flippant
+flipper-like
 flirtatious
 floating
 floaty
@@ -6036,10 +7694,12 @@ flukey
 fluky
 fluorescent
 flush
+flush-seamed
 flushed
 flustered
 fluvial
 fly
+fly-by-night
 flyaway
 flyblown
 flying
@@ -6074,6 +7734,8 @@ foolhardy
 fooling
 foolish
 foolproof
+foot-shaped
+football-shaped
 footballer
 footed
 footless
@@ -6082,6 +7744,9 @@ footloose
 footsore
 footsure
 foppish
+for sale
+for sure
+for the chop
 forbearing
 forbidden
 forbidding
@@ -6092,12 +7757,14 @@ forcible
 forcipate
 fordable
 fore
+fore-and-aft
 foreboding
 foregoing
 foregone
 forehand
 forehanded
 foreign
+foreign-born
 foremost
 forensic
 foreordained
@@ -6116,8 +7783,10 @@ forgettable
 forgivable
 forgiving
 forgotten
+fork-like
 forked
 forlorn
+form-only
 formal
 formalised
 formalistic
@@ -6142,7 +7811,27 @@ fortnightly
 fortuitous
 fortunate
 forty
+forty-eight
+forty-eighth
+forty-fifth
+forty-first
+forty-five
+forty-four
+forty-fourth
+forty-nine
+forty-ninth
+forty-one
+forty-second
+forty-seven
+forty-seventh
+forty-six
+forty-sixth
+forty-third
+forty-three
+forty-two
 forward
+forward-looking
+forward-moving
 fossil
 fossiliferous
 fossilised
@@ -6150,9 +7839,29 @@ fossilized
 fossorial
 foster
 foul
+foul-mouthed
+foul-smelling
+foul-spoken
 fouled
 found
 four
+four hundred
+four-dimensional
+four-fold
+four-footed
+four-hundredth
+four-lane
+four-lobed
+four-membered
+four-needled
+four-party
+four-petaled
+four-petalled
+four-ply
+four-sided
+four-wheel
+four-wheeled
+four-year-old
 fourfold
 fourhanded
 fourpenny
@@ -6161,6 +7870,7 @@ foursquare
 fourteen
 fourteenth
 fourth
+fourth-year
 foxy
 fractional
 fractious
@@ -6182,6 +7892,17 @@ freakish
 freaky
 freckled
 free
+free burning
+free-and-easy
+free-enterprise
+free-flying
+free-lance
+free-living
+free-range
+free-soil
+free-spoken
+free-swimming
+free-thinking
 freeborn
 freehand
 freehanded
@@ -6190,10 +7911,12 @@ freelance
 freestanding
 freewheeling
 freewill
+freeze-dried
 frenetic
 frenzied
 frequent
 fresh
+fresh-cut
 freshman
 fretful
 fretted
@@ -6223,6 +7946,7 @@ front
 frontal
 frontmost
 frore
+frost-bound
 frostbitten
 frosted
 frosty
@@ -6236,6 +7960,7 @@ frowzled
 frowzy
 frozen
 frugal
+fruit-eating
 fruitful
 fruiting
 fruitless
@@ -6247,6 +7972,7 @@ frustrating
 frustrative
 fruticose
 fruticulose
+fucked-up
 fucking
 fuddled
 fueled
@@ -6262,11 +7988,34 @@ fulgurant
 fulgurating
 fulgurous
 full
+full of life
+full-blood
+full-blooded
+full-blown
+full-bodied
+full-bosomed
+full-clad
+full-dress
+full-face
+full-fashioned
+full-fledged
+full-grown
+full-length
+full-page
+full-scale
+full-size
+full-strength
+full-term
+full-time
+fully fashioned
+fully fledged
+fully grown
 fulminant
 fulsome
 fumbling
 fumed
 functional
+functionally illiterate
 functioning
 fundamental
 fundamentalist
@@ -6282,7 +8031,9 @@ fungous
 funguslike
 funicular
 funky
+funnel-shaped
 funny
+fur-bearing
 furious
 furled
 furlike
@@ -6302,6 +8053,7 @@ fussy
 fusty
 futile
 future
+future day
 futureless
 futurist
 futuristic
@@ -6329,6 +8081,7 @@ gamy
 gangling
 gangly
 gangrenous
+gap-toothed
 gaping
 garbed
 garbled
@@ -6338,7 +8091,11 @@ garish
 garlicky
 garmented
 garmentless
+garnet-colored
+garnet-coloured
 garrulous
+gas-filled
+gas-tight
 gaseous
 gasified
 gassy
@@ -6354,6 +8111,7 @@ gaudy
 gaumless
 gaunt
 gauntleted
+gauze-like
 gauzy
 gawky
 gay
@@ -6368,6 +8126,7 @@ genderqueer
 genealogic
 genealogical
 general
+general-purpose
 generalised
 generalized
 generational
@@ -6421,6 +8180,7 @@ gerundial
 gestational
 gesticulating
 gestural
+get-at-able
 getable
 getatable
 gettable
@@ -6436,12 +8196,15 @@ giddy
 gifted
 gigantic
 gilded
+gill-less
 gilled
 gilt
+gilt-edged
 gimbaled
 gimcrack
 gimpy
 ginger
+ginger-scented
 gingerly
 gingery
 gingival
@@ -6464,6 +8227,7 @@ glamourous
 glandular
 glaring
 glary
+glass-like
 glassed
 glassless
 glassy
@@ -6473,6 +8237,7 @@ gleaming
 gleeful
 glial
 glib
+glib-tongued
 glimmery
 glinting
 glistening
@@ -6490,6 +8255,9 @@ glorified
 glorious
 glossopharyngeal
 glossy
+glossy-coated
+glossy-furred
+glossy-haired
 glottal
 glottochronological
 gloved
@@ -6510,10 +8278,16 @@ gnomic
 gnomish
 gnostic
 go
+go-as-you-please
+go-to-meeting
 goaded
+goal-directed
 goalless
 goateed
+goblet-shaped
 gobsmacked
+god-awful
+god-fearing
 goddam
 goddamn
 goddamned
@@ -6521,17 +8295,36 @@ godforsaken
 godless
 godlike
 godly
+goggle-eyed
 going
 gold
+gold-bearing
+gold-colored
+gold-coloured
 golden
+golden-brown
+golden-green
+golden-yellow
 gonadal
 gonadotrophic
 gonadotropic
 gone
 gonzo
 good
+good enough
+good for you
+good-for-naught
+good-for-nothing
+good-hearted
+good-humored
+good-humoured
+good-looking
+good-natured
+good-tempered
+good-time
 goodish
 goodly
+goody-goody
 gooey
 goofy
 gooselike
@@ -6556,6 +8349,8 @@ gracious
 gradable
 gradational
 gradatory
+grade-appropriate
+grade-constructed
 graded
 gradual
 graduate
@@ -6575,6 +8370,7 @@ granuliferous
 granulocytic
 granulomatous
 granulose
+grape-sized
 grapelike
 grapey
 graphic
@@ -6582,10 +8378,13 @@ graphical
 grapy
 graspable
 grasping
+grass-eating
 grassless
 grasslike
 grassroots
 grassy
+grassy-leafed
+grassy-leaved
 grateful
 gratified
 gratifying
@@ -6601,25 +8400,61 @@ gravimetric
 gravitational
 gravitative
 gray
+gray-black
+gray-blue
+gray-brown
+gray-green
+gray-haired
+gray-headed
+gray-pink
+gray-white
 grayish
+grayish-black
+grayish-blue
+grayish-brown
+grayish-green
+grayish-pink
 grazed
 greased
 greaseproof
 greasy
 great
+great bellied
 greater
 greatest
 greathearted
 greedy
 green
+green-blind
+green-eyed
+green-white
 greenhouse
 greenish
+greenish-brown
+greenish-gray
+greenish-grey
+greenish-white
 greensick
 greenside
 gregarious
 grey
+grey-black
+grey-blue
+grey-brown
+grey-green
+grey-haired
+grey-headed
+grey-pink
+grey-white
 greyed
 greyish
+greyish-black
+greyish-blue
+greyish-brown
+greyish-green
+greyish-pink
+greyish-white
+grief-stricken
 grieving
 grievous
 grilled
@@ -6640,6 +8475,8 @@ gross
 grotesque
 grotty
 grouchy
+ground-floor
+ground-hugging
 groundbreaking
 groundless
 grouped
@@ -6666,12 +8503,16 @@ guided
 guiding
 guileful
 guileless
+guilt-ridden
 guiltless
 guilty
+guitar-shaped
 gullible
+gum-like
 gummed
 gummy
 gumptious
+gung ho
 gushing
 gushy
 gusseted
@@ -6693,6 +8534,7 @@ gynecological
 gyral
 gyroscopic
 habilimented
+habit-forming
 habitable
 habited
 habitual
@@ -6709,8 +8551,14 @@ haemolytic
 haemophilic
 haemopoietic
 haemorrhagic
+hag-ridden
 haggard
 hagridden
+hail-fellow
+hail-fellow-well-met
+hair-raising
+hair-shirt
+hair-shirted
 haired
 hairless
 hairlike
@@ -6720,6 +8568,30 @@ halal
 halcyon
 hale
 half
+half dozen
+half-and-half
+half-baked
+half-blooded
+half-bound
+half-bred
+half-breed
+half-clothed
+half-crazed
+half-dozen
+half-evergreen
+half-hardy
+half-hearted
+half-hourly
+half-length
+half-seas-over
+half-size
+half-timber
+half-timbered
+half-time
+half-track
+half-tracked
+half-witted
+half-yearly
 halfhearted
 halfway
 hallowed
@@ -6728,15 +8600,31 @@ hallucinatory
 hallucinogenic
 halt
 halting
+ham-fisted
+ham-handed
+hammer-shaped
 hammered
 hammy
+hand-crafted
+hand-down
+hand-held
+hand-hewn
+hand-loomed
+hand-me-down
+hand-operated
+hand-to-hand
+hand-to-mouth
 handed
+handed-down
 handheld
 handicapped
 handled
 handleless
 handless
 handmade
+hands-down
+hands-off
+hands-on
 handsewn
 handsome
 handstitched
@@ -6749,9 +8637,26 @@ hapless
 haploid
 haploidic
 happy
+happy-go-lucky
 haptic
 harassed
 hard
+hard put
+hard to please
+hard up
+hard-and-fast
+hard-baked
+hard-bitten
+hard-boiled
+hard-core
+hard-fought
+hard-hitting
+hard-line
+hard-nosed
+hard-of-hearing
+hard-pressed
+hard-shelled
+hard-to-please
 hardback
 hardbacked
 hardbound
@@ -6762,6 +8667,7 @@ hardfisted
 hardheaded
 hardhearted
 hardline
+hardly a
 hardscrabble
 hardworking
 hardy
@@ -6775,9 +8681,12 @@ harmonised
 harmonizable
 harmonized
 harnessed
+harp-shaped
 harried
 harrowing
 harsh
+harsh-voiced
+harum-scarum
 hastate
 hasty
 hatched
@@ -6788,16 +8697,22 @@ hatted
 haughty
 haunted
 haunting
+hawk-eyed
 hawkish
 haywire
 hazardous
 hazel
+hazel-brown
 hazy
+head-in-the-clouds
+head-on
+head-to-head
 headed
 headfirst
 headless
 headlike
 headlong
+heads-up
 headstrong
 heady
 healed
@@ -6808,7 +8723,12 @@ healthy
 hearable
 heard
 hearing
+hearing-impaired
 hearsay
+heart-healthy
+heart-shaped
+heart-to-heart
+heart-whole
 heartbreaking
 heartbroken
 heartening
@@ -6818,15 +8738,28 @@ heartrending
 heartsick
 heartwarming
 hearty
+heat-absorbing
+heat-releasing
 heatable
 heated
+heated up
 heathen
 heathenish
 heathlike
 heatless
+heaven-sent
 heavenly
 heavenward
+heavier-than-air
+heavily traveled
 heavy
+heavy-armed
+heavy-coated
+heavy-duty
+heavy-footed
+heavy-handed
+heavy-laden
+heavy-limbed
 heavyhearted
 heavyset
 hebdomadal
@@ -6846,11 +8779,14 @@ heliac
 heliacal
 helical
 heliocentric
+hell-bent
 hellish
+helmet-shaped
 helmeted
 helminthic
 helpful
 helpless
+helter-skelter
 hemal
 hematal
 hematic
@@ -6898,6 +8834,7 @@ heroical
 hesitant
 hesitating
 het
+het up
 heterocercal
 heterocyclic
 heterodactyl
@@ -6924,6 +8861,8 @@ hexadecimal
 hexagonal
 hexangular
 hexed
+hi-fi
+hi-tech
 hibernal
 hibernating
 hick
@@ -6940,15 +8879,67 @@ hieratical
 hieroglyphic
 hieroglyphical
 hifalutin
+higgledy-piggledy
 high
+high-altitude
+high-and-mighty
+high-backed
+high-ceilinged
+high-class
+high-crowned
+high-energy
+high-fidelity
+high-flown
+high-grade
+high-handed
+high-interest
+high-keyed
+high-level
+high-minded
+high-necked
+high-octane
+high-performance
+high-pitched
+high-potential
+high-power
+high-powered
+high-pressure
+high-priced
+high-principled
+high-ranking
+high-resolution
+high-rise
+high-risk
+high-sounding
+high-speed
+high-spirited
+high-stepped
+high-stepping
+high-strung
+high-sudsing
+high-tech
+high-tension
+high-ticket
+high-toned
+high-top
+high-topped
+high-velocity
+high-voltage
+high-yield
 highborn
 highbrow
 highbrowed
 higher
+higher-ranking
 highfalutin
 highfaluting
 highflying
 highland
+highly infective
+highly sensitive
+highly strung
+highly-developed
+highly-sexed
 hilar
 hilarious
 hilly
@@ -6958,6 +8949,8 @@ hindering
 hindermost
 hindmost
 hip
+hip to
+hip-length
 hiplength
 hipless
 hipped
@@ -6971,17 +8964,26 @@ historic
 historical
 historied
 histrionic
+hit-and-run
+hit-or-miss
 hitless
+ho-hum
 hoar
 hoarse
 hoary
 hobnailed
 hogged
 hoggish
+hoity-toity
 hokey
+hole-and-corner
+hole-in-corner
 holey
+holier-than-thou
 holistic
 hollow
+hollow-eyed
+hollow-horned
 holographic
 holographical
 holometabolic
@@ -6990,6 +8992,11 @@ holophytic
 holozoic
 holy
 home
+home-baked
+home-brewed
+home-cured
+home-loving
+home-style
 homebound
 homegrown
 homeless
@@ -7002,6 +9009,7 @@ homeothermic
 homesick
 homespun
 homeward
+homeward-bound
 homey
 homicidal
 homiletic
@@ -7040,7 +9048,12 @@ homothermic
 homozygous
 homy
 honest
+honest-to-god
+honest-to-goodness
 honey
+honey-colored
+honey-coloured
+honey-scented
 honeycombed
 honeyed
 honeylike
@@ -7052,14 +9065,20 @@ honorific
 honourable
 hoofed
 hooflike
+hook-nosed
+hook-shaped
 hooked
 hooklike
 hooved
+hoped-for
 hopeful
 hopeless
+hopped-up
 horary
 horizontal
 hormonal
+horn-rimmed
+horn-shaped
 horned
 hornless
 hornlike
@@ -7070,16 +9089,28 @@ horrid
 horrific
 horrified
 horrifying
+horror-stricken
+horror-struck
+horse-and-buggy
+horse-drawn
 hortative
 hortatory
 horticultural
 hospitable
 hostile
 hot
+hot and bothered
+hot under the collar
+hot-blooded
+hot-tempered
 hotheaded
 hottish
+hourglass-shaped
 hourlong
 hourly
+house-proud
+house-to-house
+house-trained
 housebound
 housebroken
 housewifely
@@ -7090,9 +9121,13 @@ hueless
 huffish
 huffy
 huge
+hugger-mugger
 hulking
 hulky
 human
+human-centered
+human-centred
+human-sized
 humane
 humanist
 humanistic
@@ -7119,15 +9154,37 @@ humped
 hunchbacked
 hunched
 hundred
+hundred and one
+hundred thousand
+hundred-and-fifteenth
+hundred-and-fifth
+hundred-and-fiftieth
+hundred-and-fifty-fifth
+hundred-and-first
+hundred-and-fortieth
+hundred-and-forty-fifth
+hundred-and-ninetieth
+hundred-and-seventieth
+hundred-and-seventy-fifth
+hundred-and-sixtieth
+hundred-and-sixty-fifth
+hundred-and-tenth
+hundred-and-thirtieth
+hundred-and-thirty-fifth
+hundred-and-twentieth
+hundred-and-twenty-fifth
 hundredth
 hungry
+hunky-dory
 hunted
 hurried
 hurrying
 hurt
 hurtful
 husbandly
+hush-hush
 hushed
+hushed-up
 husky
 hyaline
 hyaloid
@@ -7211,6 +9268,9 @@ i
 iambic
 iatrogenic
 ic
+ice-clogged
+ice-cold
+ice-free
 icebound
 ichorous
 icky
@@ -7260,6 +9320,40 @@ iii
 il
 iliac
 ill
+ill at ease
+ill-advised
+ill-affected
+ill-bred
+ill-chosen
+ill-conceived
+ill-considered
+ill-defined
+ill-dressed
+ill-equipped
+ill-famed
+ill-fated
+ill-favored
+ill-favoured
+ill-fed
+ill-fitting
+ill-formed
+ill-gotten
+ill-humored
+ill-humoured
+ill-judged
+ill-mannered
+ill-natured
+ill-omened
+ill-proportioned
+ill-scented
+ill-shapen
+ill-smelling
+ill-sorted
+ill-starred
+ill-tempered
+ill-timed
+ill-treated
+ill-used
 illative
 illegal
 illegible
@@ -7375,12 +9469,14 @@ implicated
 implicational
 implicative
 implicit
+implicit in
 implike
 imploring
 impolite
 impolitic
 imponderable
 important
+important-looking
 imported
 importunate
 imposed
@@ -7416,6 +9512,57 @@ impure
 imputable
 imputrescible
 in
+in a bad way
+in advance
+in agreement
+in condition
+in demand
+in dishabille
+in effect
+in evidence
+in for
+in force
+in gear
+in good taste
+in height
+in her right mind
+in high spirits
+in his right mind
+in league
+in line
+in love
+in one's birthday suit
+in operation
+in order
+in person
+in play
+in question
+in series
+in sight
+in small stages
+in stock
+in store
+in straitened circumstances
+in style
+in the altogether
+in the buff
+in the flesh
+in the lead
+in the public eye
+in the raw
+in their right minds
+in use
+in vitro
+in vivo
+in vogue
+in writing
+in your birthday suit
+in-between
+in-bounds
+in-chief
+in-person
+in-situ
+in-your-face
 inaccessible
 inaccurate
 inactive
@@ -7520,6 +9667,7 @@ incorrupt
 incorruptible
 increased
 increasing
+increasing monotonic
 incredible
 incredulous
 incremental
@@ -7529,6 +9677,7 @@ inculpable
 inculpative
 inculpatory
 incumbent
+incumbent on
 incurable
 incurious
 incursive
@@ -7583,6 +9732,7 @@ individualist
 individualistic
 individualized
 indivisible
+indivisible by
 indocile
 indolent
 indomitable
@@ -7596,6 +9746,7 @@ indulgent
 indurate
 indusial
 industrial
+industrial-strength
 industrialised
 industrialized
 industrious
@@ -7679,6 +9830,7 @@ informational
 informative
 informatory
 informed
+infra dig
 infrahuman
 inframaxillary
 infrangible
@@ -7722,7 +9874,10 @@ injectable
 injudicious
 injured
 injurious
+ink-black
+ink-jet
 inky
+inky-black
 inlaid
 inland
 inmost
@@ -7768,6 +9923,7 @@ insentient
 inseparable
 inshore
 inside
+inside-out
 insidious
 insightful
 insignificant
@@ -7848,6 +10004,7 @@ interdenominational
 interdepartmental
 interdependent
 interdisciplinary
+interest-bearing
 interested
 interesting
 interfacial
@@ -7916,6 +10073,7 @@ intoned
 intoxicant
 intoxicated
 intoxicating
+intra vires
 intracellular
 intracerebral
 intracranial
@@ -7993,6 +10151,8 @@ involute
 involved
 invulnerable
 inward
+inward-developing
+inward-moving
 inwrought
 iodinated
 iodinating
@@ -8012,6 +10172,8 @@ iridic
 iritic
 irksome
 iron
+iron-gray
+iron-grey
 ironclad
 ironed
 ironic
@@ -8080,10 +10242,14 @@ isotropous
 isthmian
 italic
 itchy
+item-by-item
 iterative
 itinerant
+itsy-bitsy
+itty-bitty
 iv
 ivied
+ivy-covered
 ix
 ixc
 ixl
@@ -8092,6 +10258,7 @@ jaded
 jagged
 jaggy
 jailed
+jam-packed
 jammed
 jangling
 jangly
@@ -8111,8 +10278,11 @@ jellylike
 jerking
 jerkwater
 jerky
+jerry-built
+jerry-rigged
 jesting
 jet
+jet-propelled
 jetting
 jeweled
 jewelled
@@ -8143,6 +10313,7 @@ jowly
 joyful
 joyless
 joyous
+jr.
 jubilant
 judgmental
 judicable
@@ -8154,15 +10325,18 @@ juicy
 jumbled
 jumbo
 jumentous
+jumped-up
 jumpy
 jungly
 junior
+junior-grade
 jural
 juridic
 juridical
 jurisdictional
 jurisprudential
 juristic
+jury-rigged
 just
 justifiable
 justificative
@@ -8184,36 +10358,51 @@ katharobic
 kayoed
 keeled
 keen
+keen-eyed
+keen-sighted
 kempt
 kept
+kept up
 key
 keyed
 keyless
 khaki
+kid-glove
 killable
 killing
 kinaesthetic
 kind
+kind-hearted
 kindhearted
 kindly
 kindred
 kinesthetic
 kinetic
+king-size
+king-sized
 kinglike
 kingly
 kinky
 kitschy
 kittenish
+kitty-corner
+kitty-cornered
 knackered
 knavish
+knee-deep
+knee-length
 knifelike
 knightly
 knitted
 knobbed
 knobbly
 knobby
+knock-down
+knock-down-and-drag-out
+knock-kneed
 knockabout
 knockdown
+knockdown-dragout
 knockout
 knotted
 knotty
@@ -8226,15 +10415,18 @@ kooky
 kosher
 kyphotic
 l
+la-di-da
 labeled
 labelled
 labial
 labiate
 labile
+labor-intensive
 labored
 laboring
 laborious
 laborsaving
+labour-intensive
 laboured
 labouring
 laboursaving
@@ -8262,12 +10454,18 @@ lactic
 lactogenic
 lacustrine
 lacy
+ladder-proof
 laden
 ladened
 ladylike
 laggard
 laic
 laid
+laid low
+laid up
+laid-back
+laid-off
+laissez-faire
 lambent
 lamblike
 lame
@@ -8279,8 +10477,10 @@ laminal
 laminar
 lamplit
 lanate
+lance-shaped
 lancelike
 lanceolate
+lancet-shaped
 lancinate
 lancinating
 landed
@@ -8293,12 +10493,30 @@ languorous
 laniary
 lank
 lanky
+lantern-jawed
+lap-jointed
+lap-strake
+lap-straked
+lap-streak
+lap-streaked
 lapidarian
 lapidary
 lapsed
 larboard
 large
+large-cap
+large-capitalisation
+large-capitalization
+large-grained
+large-headed
+large-hearted
+large-leafed
+large-leaved
+large-minded
+large-mouthed
+large-scale
 larger
+larger-than-life
 larghetto
 larghissimo
 largish
@@ -8307,11 +10525,21 @@ larval
 laryngeal
 laryngopharyngeal
 lascivious
+lash-like
 lashing
 last
+last mentioned
+last-ditch
+last-minute
+last-place
 lasting
 late
+late-blooming
+late-flowering
+late-ripening
+late-spring-blooming
 lateen
+lateen-rigged
 latent
 later
 lateral
@@ -8322,6 +10550,7 @@ latish
 latitudinal
 latitudinarian
 latter
+latter-day
 latticed
 latticelike
 laudable
@@ -8332,22 +10561,31 @@ laureate
 laureled
 laurelled
 lavender
+lavender-pink
+lavender-tinged
 lavish
+law-abiding
 lawful
+lawfully-begotten
 lawless
 lax
 laxative
 lay
 layered
 lazy
+lead-colored
+lead-coloured
+lead-free
 leaded
 leaden
 leading
 leadless
+leaf-like
 leafed
 leafless
 leaflike
 leafy
+leafy-stemmed
 leakproof
 leaky
 leal
@@ -8356,6 +10594,8 @@ leaning
 learned
 leased
 least
+leather-leafed
+leather-leaved
 leathered
 leatherlike
 leathery
@@ -8368,6 +10608,13 @@ leering
 leery
 leeward
 left
+left over
+left-eyed
+left-hand
+left-handed
+left-of-center
+left-slanting
+left-wing
 leftish
 leftist
 leftmost
@@ -8386,6 +10633,7 @@ leglike
 leguminous
 leisured
 leisurely
+lemon-scented
 lemonlike
 lemony
 lendable
@@ -8414,12 +10662,15 @@ leptorrhinic
 leptosporangiate
 lesbian
 less
+less-traveled
 lessened
 lesser
 lethal
 lethargic
+letter-perfect
 lettered
 level
+level-headed
 levelheaded
 levorotary
 levorotatory
@@ -8449,16 +10700,45 @@ lidded
 lidless
 liege
 lienal
+life-and-death
+life-giving
+life-or-death
+life-size
+life-sized
+life-support
+life-sustaining
+life-threatening
 lifeless
 lifelike
 lifelong
 lifesize
 lifted
 light
+light-armed
+light-blue
+light-boned
+light-colored
+light-duty
+light-fingered
+light-footed
+light-green
+light-haired
+light-handed
+light-headed
+light-hearted
+light-minded
+light-sensitive
+light-skinned
+light-tight
 lighted
+lighter-than-air
 lightheaded
 lighthearted
+lighting-up
 lightless
+lightly armored
+lightly armoured
+lightly-armed
 lightproof
 lightsome
 lightweight
@@ -8467,13 +10747,20 @@ lii
 liii
 likable
 like
+like-minded
 likeable
 liked
 likely
 lilac
+lilac-blue
+lilac-colored
+lilac-pink
+lilac-purple
 liliaceous
 lilliputian
 lilting
+lily-livered
+lily-white
 limacine
 limacoid
 limbed
@@ -8495,6 +10782,7 @@ linguistic
 lingulate
 linked
 lionhearted
+lip-shaped
 lipless
 liplike
 lipophilic
@@ -8504,6 +10792,7 @@ liquefiable
 liquefied
 liquescent
 liquid
+liquid-fueled
 liquifiable
 liquified
 lissom
@@ -8516,6 +10805,7 @@ literal
 literary
 literate
 lithe
+lithe-bodied
 lithesome
 lithic
 lithographic
@@ -8524,23 +10814,28 @@ lithophytic
 litigious
 littered
 little
+little-known
 littler
 littoral
 liturgical
 liv
 livable
 live
+live-bearing
 liveable
 liveborn
 livelong
 lively
 liver
+liver-colored
 liveried
 liverish
 livery
 livid
 living
+load-bearing
 loaded
+loaded down
 loamless
 loamy
 loath
@@ -8551,11 +10846,13 @@ lobate
 lobated
 lobed
 lobeliaceous
+lobster-backed
 lobular
 local
 localised
 localized
 located
+locker-room
 loco
 locomotive
 locomotor
@@ -8572,20 +10869,60 @@ lone
 lonely
 lonesome
 long
+long-acting
+long-ago
+long-armed
+long-bodied
+long-branched
+long-chain
+long-dated
+long-distance
+long-faced
+long-familiar
+long-haired
+long-handled
+long-headed
+long-jawed
+long-lasting
+long-legged
+long-life
+long-lived
+long-play
+long-playing
+long-range
+long-run
+long-shanked
+long-snouted
+long-spurred
+long-stalked
+long-staple
+long-suffering
+long-term
+long-wearing
+long-winded
+long-wool
+long-wooled
 longanimous
+longed-for
 longhand
 longish
 longitudinal
 longsighted
 longstanding
 longtime
+look-alike
 looking
 loony
 loopy
 loose
+loose-fitting
+loose-jointed
+loose-jowled
 looseleaf
+loosely knit
 loosened
 looted
+lop-eared
 lopsided
 loquacious
 lordless
@@ -8598,6 +10935,8 @@ loth
 lotic
 louche
 loud
+loud-mouthed
+loud-voiced
 lousy
 loutish
 louvered
@@ -8613,10 +10952,44 @@ lovesick
 lovesome
 loving
 low
+low-altitude
+low-backed
+low-beam
+low-budget
+low-cal
+low-ceilinged
+low-class
+low-cost
+low-cut
+low-density
+low-down
+low-grade
+low-growing
+low-interest
+low-keyed
+low-level
+low-lying
+low-necked
+low-pitched
+low-powered
+low-pressure
+low-priced
+low-resolution
+low-rise
+low-set
+low-spirited
+low-sudsing
+low-tech
+low-tension
+low-toned
+low-voltage
 lowborn
 lowbred
 lowbrow
 lowbrowed
+lower-class
+lower-middle-class
+lower-ranking
 lowercase
 lowered
 lowering
@@ -8652,6 +11025,7 @@ lumpy
 lunar
 lunate
 lunatic
+lung-like
 lunisolar
 lupine
 lurid
@@ -8697,13 +11071,17 @@ lxxxv
 lxxxvi
 lxxxvii
 lxxxviii
+lying in wait
 lymphatic
+lymphoblast-like
 lymphocytic
 lymphoid
+lynx-eyed
 lyonnaise
 lyophilised
 lyophilized
 lyrate
+lyre-shaped
 lyric
 lyrical
 lysogenic
@@ -8711,6 +11089,11 @@ m
 macabre
 macaronic
 macerative
+machine readable
+machine-accessible
+machine-controlled
+machine-driven
+machine-made
 machinelike
 macho
 macrencephalic
@@ -8730,11 +11113,15 @@ madcap
 maddened
 maddening
 made
+made-to-order
+made-up
 magenta
+magenta pink
 maggoty
 magic
 magical
 magisterial
+magna cum laude
 magnanimous
 magnetic
 magnetised
@@ -8742,9 +11129,12 @@ magnetized
 magnificent
 magnified
 magniloquent
+mahogany-red
 maiden
 maidenlike
 maidenly
+mail-cheeked
+mail-clad
 mailed
 maimed
 main
@@ -8755,6 +11145,7 @@ majestic
 major
 majuscular
 majuscule
+make-believe
 makeshift
 maladaptive
 maladjusted
@@ -8783,6 +11174,10 @@ maltreated
 mammalian
 mammary
 mammoth
+man-made
+man-portable
+man-sized
+man-to-man
 manageable
 managerial
 mandatory
@@ -8797,6 +11192,7 @@ mangy
 maniac
 maniacal
 manic
+manic-depressive
 maniclike
 manifest
 manifold
@@ -8818,21 +11214,32 @@ mantled
 manual
 manufactured
 many
+many a
+many an
+many another
+many-chambered
+many-lobed
+many-sided
+maple-like
 maplelike
 marauding
 marbled
 marbleised
 marbleized
+marched upon
 marginal
 marine
 marital
 maritime
 marked
+marked-up
 marketable
 marly
 marmoreal
 marmorean
 maroon
+maroon-purple
+maroon-spotted
 marooned
 marred
 marriageable
@@ -8847,6 +11254,9 @@ masked
 masochistic
 masonic
 mass
+mass spectroscopic
+mass-produced
+mass-spectrometric
 massive
 masted
 master
@@ -8878,12 +11288,16 @@ matronly
 matt
 matte
 matted
+matter-of-course
+matter-of-fact
 maturational
 mature
 matured
 matutinal
 maudlin
 mauve
+mauve-blue
+mauve-pink
 maverick
 mawkish
 maxi
@@ -8902,6 +11316,7 @@ meager
 meagerly
 meagre
 mealy
+mealy-mouthed
 mealymouthed
 mean
 meandering
@@ -8913,10 +11328,12 @@ measly
 measurable
 measured
 measureless
+meat-eating
 meatless
 meaty
 mechanic
 mechanical
+mechanically skillful
 mechanised
 mechanistic
 mechanized
@@ -8939,6 +11356,10 @@ medieval
 mediocre
 meditative
 medium
+medium-dry
+medium-large
+medium-size
+medium-sized
 medullary
 medullated
 medusoid
@@ -8967,6 +11388,7 @@ melted
 melting
 membered
 memberless
+membrane-forming
 membranous
 memorable
 menacing
@@ -8980,6 +11402,7 @@ menstrual
 mensurable
 mensural
 mental
+mentally ill
 mentholated
 mephistophelean
 mephistophelian
@@ -8994,6 +11417,7 @@ merciless
 mercurial
 mercuric
 mercurous
+mercury-contaminated
 mere
 meretricious
 merged
@@ -9036,7 +11460,14 @@ metagrabolized
 metagrobolised
 metagrobolized
 metal
+metal-colored
+metal-coloured
+metal-cutting
+metal-looking
 metallic
+metallic-colored
+metallic-coloured
+metallic-looking
 metallike
 metalloid
 metallurgic
@@ -9050,6 +11481,7 @@ metaphysical
 metastable
 metastatic
 metatarsal
+meted out
 meteoric
 meteoritic
 meteoritical
@@ -9086,7 +11518,13 @@ microscopic
 microscopical
 microsomal
 mid
+mid-Atlantic
 middle
+middle Atlantic
+middle-aged
+middle-class
+middle-level
+middle-of-the-road
 middlemost
 middling
 midget
@@ -9103,11 +11541,15 @@ migrational
 migratory
 milch
 mild
+mild-mannered
+mild-tasting
 militant
 militarised
 militaristic
 militarized
 military
+milk-sick
+milk-white
 milkless
 milklike
 milky
@@ -9124,9 +11566,15 @@ mimic
 minacious
 minatory
 mincing
+mind-altering
+mind-bending
+mind-blowing
+mind-boggling
+mind-expanding
 minded
 mindful
 mindless
+mine run
 mined
 mineral
 mingy
@@ -9141,6 +11589,7 @@ ministerial
 ministrant
 minor
 mint
+mint-scented
 minty
 minus
 minuscular
@@ -9189,6 +11638,7 @@ mistaken
 mistreated
 mistrustful
 misty
+misty-eyed
 misunderstood
 misused
 mithraic
@@ -9201,6 +11651,7 @@ mitotic
 mitral
 mixable
 mixed
+mixed-up
 mnemonic
 mnemotechnic
 mnemotechnical
@@ -9215,9 +11666,13 @@ modal
 model
 modeled
 moderate
+moderate-size
+moderate-sized
 moderating
 moderato
 modern
+modern day
+modern-day
 moderne
 modernised
 modernistic
@@ -9311,12 +11766,16 @@ monthlong
 monthly
 monumental
 moody
+moon-faced
+moon-round
+moon-splashed
 moonless
 moonlike
 moonlit
 moonstruck
 moony
 moot
+mop-headed
 moraceous
 moral
 moralistic
@@ -9326,6 +11785,7 @@ morbilliform
 mordacious
 mordant
 more
+more than
 morganatic
 moribund
 moronic
@@ -9339,9 +11799,16 @@ mortgaged
 mortified
 mortifying
 mortuary
+moss green
+moss-grown
 mosstone
 mossy
 most
+most-favored-nation
+most-valuable
+moth-eaten
+moth-resistant
+mother-naked
 motherless
 motherlike
 motherly
@@ -9358,6 +11825,7 @@ motive
 motiveless
 motley
 motor
+motor-assisted
 motored
 motorial
 motorised
@@ -9365,13 +11833,18 @@ motorized
 motorless
 mottled
 mouldy
+mounded over
 mountainous
 mounted
 mournful
 mourning
+mouse-colored
+mouse-eared
+mouse-sized
 mouselike
 mousey
 mousy
+mouth-watering
 mouthless
 mouthlike
 movable
@@ -9392,6 +11865,8 @@ mucopurulent
 mucosal
 mucose
 mucous
+mud-beplastered
+mud-brick
 muddied
 muddled
 muddleheaded
@@ -9400,6 +11875,14 @@ muffled
 muggy
 mulish
 mullioned
+multi-color
+multi-colored
+multi-colour
+multi-coloured
+multi-ethnic
+multi-seeded
+multi-stemmed
+multi-valued
 multicellular
 multicolor
 multicolored
@@ -9423,6 +11906,7 @@ multiparous
 multipartite
 multiphase
 multiple
+multiple-choice
 multiplex
 multiplicative
 multiplied
@@ -9436,6 +11920,7 @@ multitudinous
 multivalent
 multivariate
 mum
+mummy-brown
 mundane
 municipal
 munificent
@@ -9446,6 +11931,7 @@ murine
 murky
 murmuring
 murmurous
+muscle-bound
 muscular
 musculoskeletal
 mushy
@@ -9453,6 +11939,7 @@ musical
 musicological
 musing
 musky
+musky-scented
 mussy
 must
 mustached
@@ -9470,6 +11957,9 @@ mutilated
 mutinous
 mutual
 mutualist
+mutually beneficial
+mutually exclusive
+muzzle-loading
 muzzy
 myalgic
 myelic
@@ -9496,12 +11986,20 @@ mythic
 mythical
 mythologic
 mythological
+n-th
 nacreous
 nagging
 naiant
 naif
+nail-biting
 naive
 naked
+naked as a jaybird
+naked as the day one was born
+naked as the day you were born
+naked-muzzled
+naked-tailed
+namby-pamby
 nameless
 naming
 nanocephalic
@@ -9518,6 +12016,9 @@ narcotizing
 narial
 narrative
 narrow
+narrow-bodied
+narrow-minded
+narrow-mouthed
 narrowed
 narrowing
 nary
@@ -9527,10 +12028,12 @@ nasopharyngeal
 nasty
 natal
 national
+national socialist
 nationalist
 nationalistic
 nationwide
 native
+native-born
 nativist
 nativistic
 natriuretic
@@ -9539,6 +12042,7 @@ natural
 naturalised
 naturalistic
 naturalized
+naturally occurring
 naturistic
 naughty
 nauseated
@@ -9552,6 +12056,7 @@ navigational
 neandertal
 neanderthal
 near
+near-blind
 nearby
 nearsighted
 neat
@@ -9560,23 +12065,28 @@ nebulose
 nebulous
 necessary
 necessitous
+neck and neck
+neck-deep
 necked
 neckless
 necklike
 necromantic
 necromantical
 necrotic
+nectar-rich
 nectariferous
 nectarous
 nee
 needed
 needful
+needle-shaped
 needled
 needlelike
 needless
 needy
 nefarious
 negative
+negatively charged
 neglected
 neglectful
 negligent
@@ -9589,6 +12099,8 @@ neighborly
 neighbourly
 neither
 neo
+neo-Darwinian
+neo-Lamarckian
 neoclassic
 neoclassical
 neoclassicist
@@ -9603,6 +12115,8 @@ neotenous
 nephritic
 nephrotoxic
 neritic
+nerve-racking
+nerve-wracking
 nerveless
 nervous
 nervy
@@ -9643,9 +12157,16 @@ neurotropic
 neuter
 neutered
 neutral
+neutral-colored
+neutral-coloured
 neutralised
 neutralized
+never-ending
+never-say-die
 new
+new-made
+new-mown
+new-sprung
 newborn
 newfangled
 newfound
@@ -9653,8 +12174,10 @@ newsless
 newsworthy
 newsy
 next
+next-to-last
 nibbed
 nice
+nickel-and-dime
 nidicolous
 nidifugous
 niffy
@@ -9669,24 +12192,49 @@ nightmarish
 nihilistic
 nilpotent
 nimble
+nimble-fingered
+niminy-piminy
 nine
+nine-fold
+nine-membered
+nine-sided
 ninefold
 ninepenny
 nineteen
 nineteenth
 ninetieth
 ninety
+ninety-eight
+ninety-fifth
+ninety-five
+ninety-nine
+ninety-one
+ninety-seven
+ninety-six
+ninety-two
 ninth
+nip and tuck
 nipping
 nippy
 nisi
 nitid
 nitric
+nitrogen-bearing
+nitrogen-fixing
 nitrogenous
 nitrous
 nitwitted
 no
+no-account
+no-count
+no-frills
+no-go
+no-good
+no-hit
+no-nonsense
+no-win
 noble
+noble-minded
 nocent
 nociceptive
 noctilucent
@@ -9706,6 +12254,28 @@ nominalistic
 nominated
 nominative
 nomothetic
+non compos mentis
+non-U
+non-aromatic
+non-automatic
+non-buoyant
+non-conducting
+non-elective
+non-finite
+non-invertible
+non-living
+non-metric
+non-miscible
+non-negotiable
+non-paying
+non-poisonous
+non-profit-making
+non-resinous
+non-resiny
+non-slave
+non-water-soluble
+non-white
+non-zero
 nonabsorbent
 nonabsorptive
 nonadaptive
@@ -10000,6 +12570,8 @@ normal
 normative
 normotensive
 north
+north-central
+north-polar
 northbound
 northeast
 northeasterly
@@ -10021,6 +12593,10 @@ nosocomial
 nosohusial
 nostalgic
 nosy
+not bad
+not guilty
+not intrusive
+not surprised
 notable
 notched
 noted
@@ -10032,6 +12608,7 @@ notional
 notorious
 nourished
 nourishing
+nouveau-riche
 novel
 noxious
 nth
@@ -10060,8 +12637,10 @@ nuptial
 nursed
 nurtural
 nurturant
+nut-bearing
 nutbrown
 nutlike
+nutmeg-shaped
 nutrient
 nutritional
 nutritionary
@@ -10071,6 +12650,7 @@ nuts
 nutty
 nymphomaniac
 nymphomaniacal
+o.k.
 oafish
 oaken
 oaten
@@ -10088,6 +12668,7 @@ obligatory
 obliged
 obliging
 oblique
+oblique-angled
 obliterable
 obliterate
 obliterated
@@ -10106,6 +12687,7 @@ observing
 obsessed
 obsessional
 obsessive
+obsessive-compulsive
 obsolescent
 obsolete
 obstetric
@@ -10141,7 +12723,10 @@ octosyllabic
 octuple
 ocular
 odd
+odd-job
+odd-pinnate
 oddish
+odds-on
 odious
 odoriferous
 odorless
@@ -10149,7 +12734,39 @@ odorous
 odourless
 oecumenic
 oecumenical
+of age
+of import
+of sound mind
+of the essence
+of unsound mind
 off
+off guard
+off her guard
+off his guard
+off one's guard
+off the beaten track
+off the hook
+off your guard
+off-and-on
+off-base
+off-center
+off-centered
+off-color
+off-colour
+off-guard
+off-key
+off-limits
+off-line
+off-putting
+off-site
+off-street
+off-the-cuff
+off-the-peg
+off-the-rack
+off-the-shelf
+off-the-shoulder
+off-the-wall
+off-white
 offbeat
 offenceless
 offended
@@ -10166,12 +12783,23 @@ offside
 offsides
 offstage
 ohmic
+oil-bearing
+oil-fired
+oil-soluble
 oiled
 oily
 ok
 okay
 okeh
 old
+old-fashioned
+old-hat
+old-line
+old-maidish
+old-time
+old-womanish
+old-world
+olde worlde
 olden
 older
 oldish
@@ -10185,6 +12813,14 @@ olfactory
 oligarchic
 oligarchical
 olive
+olive-brown
+olive-colored
+olive-coloured
+olive-drab
+olive-gray
+olive-grey
+olive-like
+olive-sized
 olivelike
 olympian
 ominous
@@ -10198,10 +12834,79 @@ omnipresent
 omniscient
 omnivorous
 on
+on fire
+on fleek
+on guard
+on hand
+on one's guard
+on tap
+on the button
+on the fence
+on the go
+on the hook
+on the job
+on the loose
+on the nose
+on the offensive
+on the table
+on trial
+on your guard
+on-going
+on-key
+on-line
+on-site
+on-street
+on-the-job
+on-the-scene
+on-the-spot
 oncologic
 oncological
 oncoming
 one
+one and only
+one hundred
+one hundred fifteen
+one hundred fifty
+one hundred fifty-five
+one hundred five
+one hundred forty
+one hundred forty-five
+one hundred ninety
+one hundred one
+one hundred seventy
+one hundred seventy-five
+one hundred sixty
+one hundred sixty-five
+one hundred ten
+one hundred thirty
+one hundred thirty-five
+one hundred twenty
+one hundred twenty-five
+one thousand
+one-armed
+one-celled
+one-dimensional
+one-eared
+one-eyed
+one-handed
+one-horse
+one-humped
+one-man
+one-member
+one-on-one
+one-party
+one-person
+one-piece
+one-seed
+one-seeded
+one-sided
+one-time
+one-to-one
+one-way
+one-winged
+one-woman
+one-year
+one-year-old
 oneiric
 onerous
 onetime
@@ -10224,6 +12929,16 @@ opalescent
 opaline
 opaque
 open
+open-air
+open-and-shut
+open-chain
+open-collared
+open-ended
+open-eyed
+open-hearth
+open-minded
+open-plan
+open-source
 opencast
 opencut
 opened
@@ -10269,7 +12984,15 @@ opulent
 oracular
 oral
 orange
+orange-brown
+orange-colored
+orange-coloured
+orange-flowered
+orange-hued
+orange-red
+orange-sized
 orangish
+orangish-red
 oratorical
 orbicular
 orbiculate
@@ -10339,6 +13062,30 @@ otic
 otiose
 ototoxic
 out
+out of gear
+out of place
+out of play
+out of practice
+out of print
+out of reach
+out of sight
+out of stock
+out of the blue
+out of the question
+out of true
+out of use
+out of whack
+out of work
+out or keeping
+out to
+out-and-out
+out-of-bounds
+out-of-date
+out-of-door
+out-of-pocket
+out-of-school
+out-of-the-way
+out-of-town
 outback
 outboard
 outbound
@@ -10374,10 +13121,22 @@ outspread
 outstanding
 outstretched
 outward
+outward-bound
+outward-developing
+outward-moving
 oval
+oval-bodied
+oval-fruited
+oval-shaped
 ovarian
 ovate
+oven-ready
+oven-shaped
 over
+over-embellished
+over-the-counter
+over-the-hill
+over-the-top
 overabundant
 overactive
 overage
@@ -10475,11 +13234,16 @@ owing
 owlish
 own
 owned
+owner-occupied
 ownerless
+ox-eyed
+oxford-gray
+oxford-grey
 oxidative
 oxidised
 oxidizable
 oxidized
+p.m.
 pachydermal
 pachydermatous
 pachydermic
@@ -10491,10 +13255,13 @@ packable
 packaged
 packed
 padded
+paddle-shaped
 paederastic
 paediatric
 pagan
 paid
+paid-up
+pain-free
 pained
 painful
 painless
@@ -10513,6 +13280,10 @@ palatial
 palatine
 palatoglossal
 pale
+pale blue
+pale-colored
+pale-faced
+pale-hued
 paleoanthropological
 paleocortical
 paleolithic
@@ -10522,8 +13293,10 @@ palish
 palliative
 pallid
 pally
+palm-shaped
 palmar
 palmate
+palmately-lobed
 palmatifid
 palmlike
 palmy
@@ -10533,8 +13306,11 @@ palpebrate
 palpitant
 palpitating
 palsied
+palsy-walsy
 paltry
 pampering
+pancake-like
+pancake-style
 pancreatic
 pandemic
 pandurate
@@ -10542,6 +13318,8 @@ panduriform
 panegyric
 panegyrical
 paneled
+panic-stricken
+panic-struck
 panicked
 panicky
 panicled
@@ -10557,6 +13335,7 @@ pantheistic
 pantropic
 pantropical
 papal
+paper thin
 paperback
 paperbacked
 paperlike
@@ -10599,6 +13378,7 @@ parasitical
 parasiticidal
 parasympathetic
 parasympathomimetic
+parceled out
 parched
 pardonable
 parental
@@ -10623,6 +13403,7 @@ parous
 paroxysmal
 parrotlike
 parsimonious
+part-time
 parted
 parthenogenetic
 partial
@@ -10642,6 +13423,7 @@ partitive
 partizan
 parttime
 parturient
+party-spirited
 parve
 parvenu
 parvenue
@@ -10659,6 +13441,7 @@ passive
 past
 pasted
 pastel
+pastel-colored
 pastelike
 pasteurised
 pasteurized
@@ -10679,6 +13462,7 @@ pathogenic
 pathologic
 pathological
 patient
+patient of
 patriarchal
 patriarchic
 patricentric
@@ -10701,16 +13485,28 @@ paved
 pawky
 payable
 paying
+paying attention
+pea-green
+peace-loving
 peaceable
 peaceful
 peacekeeping
+peach-colored
 peachy
+peachy-colored
+peachy-coloured
+peacock-blue
 peaked
 peaky
 peanut
+pear-shaped
+pearl gray
+pearl grey
 pearlescent
 pearly
+pearly-white
 peaty
+pebble-grained
 pebbly
 peccable
 peccant
@@ -10736,10 +13532,12 @@ peeled
 peerless
 peeved
 peevish
+pegged-down
 pejorative
 pelagic
 pelecypod
 pelecypodous
+pell-mell
 pellucid
 peltate
 pelvic
@@ -10755,6 +13553,7 @@ penetrable
 penetrating
 penetrative
 penial
+penicillin-resistant
 penile
 peninsular
 penitent
@@ -10762,9 +13561,12 @@ penitential
 penitentiary
 pennate
 penniless
+penny-pinching
+penny-wise
 pensionable
 pensive
 pent
+pent-up
 pentagonal
 pentamerous
 pentangular
@@ -10779,6 +13581,7 @@ peopled
 peppery
 peppy
 peptic
+per capita
 perambulating
 perceivable
 perceived
@@ -10825,8 +13628,10 @@ perithelial
 peritoneal
 peritrichous
 periwigged
+perked up
 perky
 permanent
+permanent-press
 permeable
 permeant
 permeating
@@ -10846,6 +13651,7 @@ persevering
 persistent
 persisting
 persnickety
+person-to-person
 personable
 personal
 personalised
@@ -10876,6 +13682,7 @@ pestiferous
 pestilent
 pestilential
 pet
+petal-like
 petaled
 petalled
 petalless
@@ -10965,6 +13772,7 @@ phytophagic
 phytophagous
 phytophilous
 pianissimo
+pianissimo assai
 pianistic
 piano
 picaresque
@@ -10977,6 +13785,7 @@ pictural
 pictured
 picturesque
 piddling
+pie-eyed
 piebald
 piecemeal
 pied
@@ -10986,6 +13795,9 @@ pietistic
 pietistical
 piezoelectric
 piffling
+pig-sized
+pigeon-breasted
+pigeon-toed
 piggish
 piggy
 pigheaded
@@ -11004,12 +13816,29 @@ pinched
 pineal
 pinioned
 pink
+pink-collar
+pink-lavender
+pink-orange
+pink-purple
+pink-red
+pink-slipped
+pink-tinged
+pink-tipped
 pinkish
+pinkish-lavender
+pinkish-orange
+pinkish-purple
+pinkish-white
 pinnate
+pinnate-leafed
+pinnate-leaved
 pinnated
 pinnatifid
 pinnatisect
 pinstriped
+pint-size
+pint-sized
+pinwheel-shaped
 pious
 piquant
 piratical
@@ -11018,8 +13847,12 @@ piscatory
 piscine
 piscivorous
 pissed
+pissed off
 pistillate
+pitch-black
+pitch-dark
 pitched
+pitcher-shaped
 pitchy
 piteous
 pithy
@@ -11047,11 +13880,13 @@ plagioclastic
 plaguey
 plaguy
 plain
+plain-woven
 plainspoken
 plaintive
 planar
 planate
 plane
+plane-polarized
 planetal
 planetary
 plangent
@@ -11061,6 +13896,7 @@ planned
 planoconcave
 planoconvex
 planographic
+plant-eating
 plantal
 plantar
 planted
@@ -11068,6 +13904,7 @@ plantigrade
 plastered
 plastic
 platelike
+platinum-blonde
 platitudinal
 platitudinous
 platonic
@@ -11080,9 +13917,12 @@ plausible
 plausive
 playable
 played
+played out
 playful
 pleading
 pleasant
+pleasant-smelling
+pleasant-tasting
 pleased
 pleasing
 pleasurable
@@ -11113,6 +13953,7 @@ plumbable
 plumbaginaceous
 plumbic
 plumbous
+plume-tipped
 plumed
 plumelike
 plumlike
@@ -11128,6 +13969,7 @@ plural
 pluralistic
 plus
 plush
+plush-like
 plushy
 plutocratic
 plutocratical
@@ -11136,8 +13978,11 @@ pneumatic
 pneumococcal
 pneumogastric
 pneumonic
+po-faced
 poached
 pocked
+pocket-size
+pocket-sized
 pocketable
 pockmarked
 podgy
@@ -11147,23 +13992,32 @@ poetical
 poignant
 poikilothermic
 poikilothermous
+point-blank
+point-of-sale
 pointed
+pointed-toe
 pointillist
 pointillistic
 pointless
+pointy-toed
 poised
 poisonous
+poker-faced
 pokey
 poky
 polar
 polarographic
+pole-handled
 polemic
 polemical
 polemoniaceous
+policy-making
 polished
 polite
 politic
 political
+politically correct
+politically incorrect
 polluted
 pollyannaish
 poltroon
@@ -11210,6 +14064,7 @@ pondering
 ponderous
 pontifical
 poor
+poor-spirited
 poorly
 pop
 popeyed
@@ -11236,11 +14091,15 @@ positionable
 positional
 positioning
 positive
+positively charged
 positivist
 positivistic
 possessed
 possessive
 possible
+post meridiem
+post-communist
+post-free
 postal
 postbiblical
 postdiluvian
@@ -11271,6 +14130,7 @@ postprandial
 postulational
 postural
 postwar
+pot-trained
 potable
 potbellied
 potbound
@@ -11279,11 +14139,20 @@ potential
 potholed
 potted
 potty
+potty-trained
+pouch-shaped
 pouched
 pouchlike
+pound-foolish
 pouring
+poverty-stricken
+powder blue
+powder-puff
 powdered
 powdery
+powdery-blue
+power-assisted
+power-driven
 powered
 powerful
 powerless
@@ -11302,6 +14171,13 @@ praising
 prandial
 prankish
 prayerful
+pre-Christian
+pre-Columbian
+pre-Jurassic
+pre-Socratic
+pre-emptive
+pre-existent
+pre-existing
 preachy
 preadolescent
 preanal
@@ -11411,6 +14287,7 @@ prescribed
 prescription
 prescriptive
 present
+present-day
 presentable
 presentational
 preservable
@@ -11437,6 +14314,7 @@ preternatural
 pretorial
 pretorian
 pretty
+pretty-pretty
 prevailing
 prevalent
 prevenient
@@ -11446,9 +14324,12 @@ preventive
 previous
 prewar
 priapic
+price-controlled
 priceless
 pricey
 prickly
+prickly-leafed
+prickly-leaved
 pricy
 prideful
 priestlike
@@ -11456,6 +14337,7 @@ priestly
 priggish
 prim
 prima
+prima facie
 primaeval
 primal
 primary
@@ -11476,11 +14358,21 @@ prisonlike
 prissy
 pristine
 private
+private-enterprise
 privileged
 privy
+prix fixe
 prize
 prizewinning
 pro
+pro bono
+pro forma
+pro tem
+pro tempore
+pro-American
+pro-choice
+pro-inflammatory
+pro-life
 proactive
 probabilistic
 probable
@@ -11511,10 +14403,13 @@ professed
 professional
 professorial
 proficient
+profit-maximising
+profit-maximizing
 profitable
 profitless
 profligate
 profound
+profoundly deaf
 profuse
 progestational
 prognathic
@@ -11561,6 +14456,7 @@ propellent
 propelling
 proper
 propertied
+property-owning
 propertyless
 prophetic
 prophetical
@@ -11615,6 +14511,7 @@ protrusile
 protrusive
 protuberant
 proud
+proud of
 provable
 proved
 proven
@@ -11676,6 +14573,7 @@ puberulent
 pubescent
 pubic
 public
+public-spirited
 publicised
 publicized
 publishable
@@ -11690,6 +14588,9 @@ puerperal
 puff
 puffed
 puffy
+pug-faced
+pug-nose
+pug-nosed
 pugilistic
 pugnacious
 puissant
@@ -11702,6 +14603,10 @@ pulseless
 pulverised
 pulverized
 pumped
+pumped up
+pumped-up
+pumpkin-shaped
+punch-drunk
 punctilious
 punctual
 puncturable
@@ -11733,10 +14638,33 @@ purifying
 puritanic
 puritanical
 purple
+purple-black
+purple-blue
+purple-brown
+purple-eyed
+purple-flowered
+purple-green
+purple-lilac
+purple-red
+purple-spotted
+purple-tinged
+purple-tinted
+purple-veined
+purple-white
 purplish
+purplish-black
+purplish-blue
+purplish-brown
+purplish-green
+purplish-lilac
+purplish-red
+purplish-white
+purpose-built
+purpose-made
 purposeful
 purposeless
 purposive
+purse-proud
 pursuant
 pursued
 pursuing
@@ -11747,6 +14675,9 @@ pushy
 pusillanimous
 pussy
 pustulate
+put on
+put-up
+put-upon
 putative
 putdownable
 putrefacient
@@ -11755,6 +14686,7 @@ putrefiable
 putrescent
 putrescible
 putrid
+putrid-smelling
 puzzled
 puzzling
 pyaemic
@@ -11815,10 +14747,13 @@ quartan
 quarterly
 quartzose
 quasi
+quasi-religious
+quasi-royal
 quaternary
 quaternate
 quavering
 queasy
+queen-size
 queenlike
 queenly
 queer
@@ -11829,6 +14764,13 @@ querulous
 questionable
 questioning
 quick
+quick silver
+quick-change
+quick-eared
+quick-frozen
+quick-sighted
+quick-tempered
+quick-witted
 quickset
 quicksilver
 quiescent
@@ -11849,6 +14791,8 @@ quotable
 quotidian
 rabbinic
 rabbinical
+rabbit-sized
+rabble-rousing
 rabid
 racemose
 rachitic
@@ -11859,11 +14803,15 @@ racking
 racy
 raddled
 radial
+radial-ply
+radially symmetrical
 radiant
 radiate
 radiating
 radical
 radio
+radio-controlled
+radio-opaque
 radioactive
 radiographic
 radiological
@@ -11906,6 +14854,7 @@ randy
 ranging
 rangy
 rank
+rank-smelling
 ranked
 ranking
 ransacked
@@ -11917,11 +14866,13 @@ rapt
 raptorial
 rapturous
 rare
+rare-roasted
 rarefied
 rarified
 raring
 rascally
 rash
+raspberry-red
 rasping
 raspy
 ratable
@@ -11944,19 +14895,32 @@ ravaged
 ravaging
 ravening
 ravenous
+raving mad
 ravishing
 raw
 rawboned
 rayless
 razed
+razor-backed
+razor-sharp
 razorback
+re-created
+re-entrant
+re-formed
 reachable
 reactionary
 reactionist
 reactive
 readable
 ready
+ready and waiting
+ready to hand
+ready-cooked
+ready-made
+ready-to-eat
+ready-to-wear
 real
+real-time
 realised
 realistic
 realizable
@@ -12008,6 +14972,7 @@ reconciling
 recondite
 reconstructed
 reconstructive
+record-breaking
 recorded
 recoverable
 recovered
@@ -12034,9 +14999,40 @@ recurved
 recusant
 recyclable
 red
+red carpet
+red-blind
+red-blooded
+red-brick
+red-brown
+red-carpet
+red-coated
+red-faced
+red-flowered
+red-fruited
+red-gray
+red-grey
+red-handed
+red-hot
+red-lavender
+red-letter
+red-orange
+red-purple
+red-rimmed
+red-streaked
+red-striped
+red-violet
 redbrick
 reddened
 reddish
+reddish-brown
+reddish-gray
+reddish-grey
+reddish-lavender
+reddish-orange
+reddish-pink
+reddish-striped
+reddish-violet
+reddisn-purple
 redeemable
 redeemed
 redeeming
@@ -12071,6 +15067,7 @@ reflective
 reflex
 reflexed
 reflexive
+reform-minded
 reformable
 reformative
 reformatory
@@ -12079,6 +15076,7 @@ reformist
 refractile
 refractive
 refractory
+refractory-lined
 refreshed
 refreshful
 refreshing
@@ -12117,6 +15115,7 @@ rejected
 rejective
 rejoicing
 related
+related to
 relatiative
 relational
 relative
@@ -12145,6 +15144,7 @@ remittent
 remorseful
 remorseless
 remote
+remote-controlled
 removable
 removed
 remunerated
@@ -12158,6 +15158,7 @@ renewed
 renewing
 reniform
 renowned
+rent-free
 rentable
 rental
 renunciant
@@ -12177,6 +15178,7 @@ repetitious
 repetitive
 replaceable
 replete
+reply-paid
 reportable
 reported
 reposeful
@@ -12236,6 +15238,7 @@ respiratory
 resplendent
 respondent
 responsible
+responsible for
 responsive
 rested
 restful
@@ -12312,6 +15315,8 @@ revolutionary
 revolved
 rewardful
 rewarding
+rh-negative
+rh-positive
 rhapsodic
 rheologic
 rheological
@@ -12334,6 +15339,7 @@ rhythmical
 riant
 ribald
 ribbed
+ribbon-shaped
 ribbonlike
 ribbony
 ribless
@@ -12349,6 +15355,16 @@ rife
 rifled
 rigged
 right
+right smart
+right-angled
+right-down
+right-eyed
+right-hand
+right-handed
+right-minded
+right-side-out
+right-side-up
+right-wing
 righteous
 rightful
 rightish
@@ -12364,10 +15380,12 @@ rimless
 rimmed
 rimose
 rimy
+ring-shaped
 ringed
 ringleted
 ringlike
 riotous
+rip-roaring
 riparian
 ripe
 ripened
@@ -12376,9 +15394,11 @@ rippled
 risen
 risible
 rising
+risk-free
 riskless
 risky
 risque
+rit.
 ritardando
 ritenuto
 ritual
@@ -12396,10 +15416,17 @@ robotic
 robotlike
 robust
 robustious
+rock-bottom
+rock-inhabiting
+rock-loving
+rock-ribbed
+rock-steady
 rockbound
+rocket-propelled
 rocklike
 rocky
 rococo
+rod-shaped
 rodlike
 roentgenographic
 roguish
@@ -12407,8 +15434,10 @@ roiled
 roiling
 roily
 rolled
+rolled into one
 rollicking
 rolling
+roly-poly
 romaic
 romantic
 romanticist
@@ -12424,9 +15453,22 @@ ropey
 ropy
 rosaceous
 rose
+rose-cheeked
+rose-colored
+rose-lavender
+rose-lilac
+rose-mauve
+rose-purple
+rose-red
+rose-tinged
+rose-tinted
 roseate
 rostrate
 rosy
+rosy-cheeked
+rosy-colored
+rosy-purple
+rot-resistant
 rotary
 rotatable
 rotated
@@ -12437,12 +15479,28 @@ rotten
 rotund
 rouged
 rough
+rough-and-ready
+rough-and-tumble
+rough-cut
+rough-haired
+rough-spoken
+rough-textured
 roughdried
 roughened
 roughhewn
 roughish
 roughshod
 round
+round the bend
+round-arm
+round-backed
+round-bottom
+round-bottomed
+round-eyed
+round-faced
+round-fruited
+round-shouldered
+round-the-clock
 roundabout
 rounded
 roundheaded
@@ -12458,6 +15516,8 @@ rubbery
 rubbishy
 rubicund
 ruby
+ruby-red
+rudder-like
 rudderless
 ruddy
 rude
@@ -12469,6 +15529,7 @@ rugged
 rugose
 ruined
 ruinous
+rule-governed
 ruled
 ruling
 ruly
@@ -12479,6 +15540,11 @@ ruminant
 ruminative
 rummy
 rumpled
+run-down
+run-of-the-mill
+run-of-the-mine
+run-on
+run-resistant
 runaway
 runcinate
 runic
@@ -12495,6 +15561,11 @@ rushlike
 rushy
 russet
 rust
+rust-brown
+rust-colored
+rust-free
+rust-red
+rust-resistant
 rusted
 rustic
 rustless
@@ -12502,6 +15573,8 @@ rustling
 rustproof
 rustproofed
 rusty
+rusty-brown
+rusty-red
 ruthful
 ruthless
 rutted
@@ -12509,8 +15582,10 @@ ruttish
 rutty
 sabbatic
 sabbatical
+saber-toothed
 sabertoothed
 sable
+sabre-toothed
 saccadic
 saccharine
 sacculate
@@ -12526,12 +15601,18 @@ sacrificial
 sacrilegious
 sacrosanct
 sad
+sad-faced
+saddle-shaped
+saddle-sore
 saddled
 sadistic
 sadomasochistic
 safe
+safe and sound
+safety-related
 sagacious
 sage
+sage-green
 sagging
 sagittal
 sagittate
@@ -12553,6 +15634,7 @@ salivary
 sallow
 salmon
 salt
+salt-cured
 salted
 saltish
 saltlike
@@ -12570,6 +15652,7 @@ sanctimonious
 sanctionative
 sanctioned
 sanctioning
+sand-blind
 sandaled
 sandalled
 sandlike
@@ -12624,8 +15707,11 @@ saturated
 saturnine
 satyric
 satyrical
+saucer-eyed
+saucer-shaped
 saucy
 saurian
+sausage-shaped
 saute
 sauteed
 savage
@@ -12635,6 +15721,11 @@ savorless
 savory
 savourless
 savoury
+saw-like
+saw-toothed
+sawed-off
+sawn-off
+sawtoothed-edged
 saxatile
 saxicoline
 saxicolous
@@ -12650,10 +15741,12 @@ scaley
 scalic
 scalloped
 scaly
+scaly-tailed
 scandalmongering
 scandalous
 scandent
 scant
+scantily clad
 scanty
 scaphoid
 scapose
@@ -12664,6 +15757,8 @@ scarecrowish
 scared
 scarey
 scarlet
+scarlet-crimson
+scarlet-pink
 scarred
 scary
 scathing
@@ -12697,6 +15792,7 @@ scientific
 scintillant
 scintillating
 sciolistic
+scissor-tailed
 sclerosed
 sclerotic
 scopal
@@ -12721,6 +15817,8 @@ scrawny
 screaky
 screaming
 screechy
+screw-loose
+screw-topped
 screwball
 screwy
 scrimpy
@@ -12745,6 +15843,8 @@ scurfy
 scurrilous
 scurrying
 scurvy
+sea-green
+sea-level
 seaborne
 seafaring
 seagirt
@@ -12770,6 +15870,12 @@ sebaceous
 sec
 secluded
 second
+second-best
+second-class
+second-rate
+second-sighted
+second-string
+second-year
 secondary
 secondhand
 secret
@@ -12791,6 +15897,7 @@ sedimentary
 seditious
 seductive
 sedulous
+see-through
 seeable
 seeded
 seedless
@@ -12811,6 +15918,99 @@ select
 selected
 selective
 self
+self-abnegating
+self-absorbed
+self-acting
+self-activating
+self-addressed
+self-aggrandising
+self-aggrandizing
+self-appointed
+self-asserting
+self-assertive
+self-assured
+self-aware
+self-balancing
+self-centered
+self-centred
+self-collected
+self-colored
+self-coloured
+self-complacent
+self-conceited
+self-confessed
+self-confident
+self-conscious
+self-consistent
+self-constituted
+self-contained
+self-contradictory
+self-defeating
+self-denying
+self-deprecating
+self-destructive
+self-directed
+self-disciplined
+self-educated
+self-effacing
+self-employed
+self-enclosed
+self-established
+self-evident
+self-examining
+self-explanatory
+self-fertilised
+self-fertilized
+self-forgetful
+self-generated
+self-giving
+self-governing
+self-important
+self-imposed
+self-induced
+self-indulgent
+self-involved
+self-limited
+self-loading
+self-locking
+self-loving
+self-luminous
+self-made
+self-moving
+self-opinionated
+self-pollinated
+self-pollinating
+self-possessed
+self-proclaimed
+self-produced
+self-propelled
+self-propelling
+self-referent
+self-regulating
+self-reliant
+self-renewing
+self-respectful
+self-respecting
+self-restraining
+self-righteous
+self-sacrificing
+self-satisfied
+self-sealing
+self-seeded
+self-seeking
+self-service
+self-serving
+self-sowed
+self-sown
+self-styled
+self-sufficient
+self-sufficing
+self-supporting
+self-sustained
+self-sustaining
+self-whispered
+self-willed
+self-winding
 selfish
 selfless
 selfsame
@@ -12818,6 +16018,16 @@ sellable
 semantic
 semestral
 semestrial
+semi-climbing
+semi-dry
+semi-erect
+semi-evergreen
+semi-formal
+semi-processed
+semi-prostrate
+semi-tuberous
+semi-upright
+semi-wild
 semiabstract
 semiannual
 semiaquatic
@@ -12922,6 +16132,7 @@ sericultural
 seriocomic
 seriocomical
 serious
+serious-minded
 serologic
 serological
 serous
@@ -12937,22 +16148,43 @@ servomechanical
 sesquipedalian
 sessile
 set
+set in stone
+set-apart
+set-aside
 setaceous
 setose
 settled
 seven
+seven-day
+seven-fold
+seven-membered
+seven-sided
 sevenfold
 seventeen
 seventeenth
 seventh
 seventieth
 seventy
+seventy-eight
+seventy-fifth
+seventy-five
+seventy-four
+seventy-nine
+seventy-one
+seventy-seven
+seventy-six
+seventy-three
+seventy-two
 severable
 several
+several-seeded
 severe
 severed
 sewed
 sewn
+sex-limited
+sex-linked
+sex-starved
 sexagenarian
 sexagesimal
 sexed
@@ -12960,8 +16192,10 @@ sexist
 sexless
 sextuple
 sexual
+sexually attractive
 sexy
 shabby
+shabby-genteel
 shackled
 shaded
 shadowed
@@ -12969,12 +16203,16 @@ shadowy
 shady
 shagged
 shaggy
+shaggy-coated
+shaggy-haired
 shakable
 shakeable
 shakedown
 shaken
 shaky
 shallow
+shallow-draft
+shallow-draught
 sham
 shamanist
 shamanistic
@@ -12988,8 +16226,21 @@ shapeless
 shapely
 shaping
 shared
+shared out
 sharing
 sharp
+sharp-angled
+sharp-cornered
+sharp-eared
+sharp-eyed
+sharp-limbed
+sharp-nosed
+sharp-pointed
+sharp-set
+sharp-sighted
+sharp-tasting
+sharp-toothed
+sharp-worded
 sharpened
 shattered
 shattering
@@ -13006,10 +16257,12 @@ sheer
 sheetlike
 shelflike
 shelfy
+shell-less
 shelled
 shellproof
 sheltered
 shelvy
+shield-shaped
 shielded
 shifting
 shiftless
@@ -13027,6 +16280,8 @@ shitty
 shivering
 shivery
 shoaly
+shock-absorbent
+shock-headed
 shockable
 shocked
 shocking
@@ -13040,6 +16295,31 @@ shopworn
 shoreward
 shorn
 short
+short and sweet
+short-beaked
+short-billed
+short-bodied
+short-dated
+short-eared
+short-haired
+short-handed
+short-handled
+short-headed
+short-lived
+short-nosed
+short-order
+short-range
+short-run
+short-snouted
+short-spurred
+short-staffed
+short-stalked
+short-stemmed
+short-tailed
+short-tempered
+short-term
+short-winded
+short-winged
 shortened
 shorthand
 shortish
@@ -13050,6 +16330,7 @@ shouted
 showery
 showy
 shredded
+shrew-sized
 shrewd
 shrewish
 shrieked
@@ -13063,16 +16344,23 @@ shrunken
 shuddering
 shuddery
 shut
+shut up
+shut-in
 shuttered
 shy
 sibilant
 sibyllic
 sibylline
 sick
+sick of
+sick-abed
 sickening
 sickish
+sickle-shaped
 sickly
 side
+side by side
+side-to-side
 sidearm
 sidelong
 sidereal
@@ -13084,6 +16372,7 @@ sightly
 sigmoid
 sigmoidal
 sign
+sign-language
 signal
 signed
 significant
@@ -13092,19 +16381,44 @@ silenced
 silent
 siliceous
 silicious
+silk-lined
 silken
 silklike
 silky
+silky-haired
+silky-leafed
+silky-leaved
 silly
 silty
 silvan
 silver
+silver-blue
+silver-bodied
+silver-colored
+silver-gray
+silver-green
+silver-grey
+silver-haired
+silver-leafed
+silver-leaved
+silver-scaled
+silver-tongued
+silver-white
 silverish
 silvern
 silvery
+silvery-blue
+silvery-bodied
+silvery-gray
+silvery-green
+silvery-grey
+silvery-leafed
+silvery-leaved
+silvery-white
 simian
 similar
 simple
+simple-minded
 simplex
 simplified
 simplistic
@@ -13116,6 +16430,20 @@ sinful
 singable
 singing
 single
+single-barreled
+single-barrelled
+single-bedded
+single-breasted
+single-celled
+single-channel
+single-handed
+single-humped
+single-lane
+single-minded
+single-seeded
+single-shelled
+single-spaced
+single-stranded
 singsong
 singular
 sinister
@@ -13137,6 +16465,10 @@ sisterly
 sitting
 situated
 six
+six-fold
+six-membered
+six-pointed
+six-sided
 sixfold
 sixpenny
 sixteen
@@ -13144,6 +16476,17 @@ sixteenth
 sixth
 sixtieth
 sixty
+sixty-eight
+sixty-fifth
+sixty-five
+sixty-four
+sixty-fourth
+sixty-nine
+sixty-one
+sixty-seven
+sixty-six
+sixty-three
+sixty-two
 sizable
 size
 sizeable
@@ -13154,6 +16497,8 @@ skeletal
 skeptical
 sketchy
 skew
+skew-eyed
+skew-whiff
 skewed
 skilful
 skilled
@@ -13161,6 +16506,8 @@ skillful
 skim
 skimmed
 skimpy
+skin-deep
+skin-tight
 skinless
 skinned
 skinny
@@ -13168,22 +16515,30 @@ skint
 skintight
 skirting
 skittish
+sky-blue
 skyward
 slack
 slain
 slaked
+slam-bang
 slanderous
 slangy
 slanted
 slanting
+slap-up
 slapdash
 slaphappy
 slapstick
 slashed
 slashing
+slate-black
+slate-gray
+slate-grey
 slatey
 slatternly
 slaty
+slaty-gray
+slaty-grey
 slaughterous
 slaveholding
 slaveless
@@ -13194,20 +16549,28 @@ sleek
 sleeping
 sleepless
 sleepy
+sleepy-eyed
 sleepyheaded
 sleety
 sleeved
 sleeveless
 slender
+slender-bodied
+slender-waisted
+slender-winged
 sliced
 slick
 slicked
+slicked up
 sliding
 slight
 slighting
 slim
+slim-bodied
+slim-waisted
 slimed
 slimy
+slipper-shaped
 slippered
 slippery
 slipping
@@ -13226,6 +16589,8 @@ slouchy
 sloughy
 slovenly
 slow
+slow-moving
+slow-witted
 slowgoing
 slubbed
 sluggish
@@ -13239,10 +16604,23 @@ slushy
 sluttish
 sly
 small
+small-cap
+small-capitalisation
+small-capitalization
+small-eared
+small-fruited
+small-grained
+small-minded
+small-scale
+small-seeded
+small-time
+small-toothed
+small-winged
 smaller
 smallish
 smarmy
 smart
+smart as a whip
 smashed
 smashing
 smelling
@@ -13250,12 +16628,25 @@ smelly
 smiling
 smitten
 smoggy
+smoke-cured
+smoke-dried
+smoke-filled
+smoke-free
 smoked
 smokeless
 smoking
 smoky
 smoldering
 smooth
+smooth-bodied
+smooth-faced
+smooth-haired
+smooth-shaven
+smooth-shelled
+smooth-skinned
+smooth-spoken
+smooth-textured
+smooth-tongued
 smoothbore
 smoothed
 smoothened
@@ -13267,6 +16658,7 @@ smug
 smuggled
 smutty
 snafu
+snake-haired
 snakelike
 snaky
 snappish
@@ -13287,15 +16679,27 @@ snobby
 snoopy
 snooty
 snorty
+snot-nosed
 snotty
+snotty-nosed
+snow-blind
+snow-blinded
+snow-capped
+snow-clad
+snow-covered
+snow-white
 snowbound
 snowy
 snub
+snub-nosed
 snuff
+snuff-brown
 snuffling
 snuffly
 snug
 snuggled
+so-called
+so-so
 soaked
 soapy
 soaring
@@ -13319,18 +16723,29 @@ sociopathic
 sodden
 sodding
 soft
+soft on
+soft-boiled
+soft-finned
+soft-footed
+soft-haired
+soft-nosed
+soft-spoken
+soft-witted
 softened
 softening
 softheaded
 softhearted
 softish
 soggy
+soi-disant
 soigne
 soignee
+soil-building
 soiled
 solanaceous
 solar
 sold
+sold-out
 soldierlike
 soldierly
 sole
@@ -13339,6 +16754,10 @@ soleless
 solemn
 solicitous
 solid
+solid-colored
+solid-coloured
+solid-hoofed
+solid-state
 solidified
 solitary
 solo
@@ -13353,6 +16772,7 @@ somatosensory
 somber
 sombre
 some
+some other
 sometime
 somniferous
 somnific
@@ -13364,8 +16784,10 @@ sonic
 sonorous
 sonsie
 sonsy
+soot-black
 soothing
 sooty
+sooty-black
 sophistic
 sophistical
 sophisticated
@@ -13380,6 +16802,7 @@ sorbefacient
 sorcerous
 sordid
 sore
+sore-eyed
 sororal
 sorrel
 sorrowful
@@ -13388,21 +16811,30 @@ sorry
 sorted
 soteriological
 sottish
+souffle-like
 soughing
 sought
+sought after
+sought-after
+soul-destroying
+soul-stirring
 soulful
 soulless
 sound
+sound asleep
 soundable
 sounding
 soundless
 soundproof
 soupy
 sour
+sour-tasting
 soured
 sourish
 soused
 south
+south-central
+south-polar
 southbound
 southeast
 southeasterly
@@ -13421,11 +16853,14 @@ sovereign
 sown
 sozzled
 spaced
+spaced-out
 spacey
 spacial
 spaciotemporal
 spacious
 spacy
+spade-like
+spade-shaped
 spangled
 spangly
 spanking
@@ -13433,6 +16868,7 @@ spare
 sparing
 sparkling
 sparkly
+sparrow-sized
 sparse
 spartan
 spasmodic
@@ -13440,11 +16876,13 @@ spastic
 spatial
 spatiotemporal
 spattered
+spatula-shaped
 spatulate
 spavined
 spayed
 speakable
 speaking
+spearhead-shaped
 special
 specialised
 specialistic
@@ -13465,13 +16903,16 @@ spectroscopic
 spectroscopical
 specular
 speculative
+speech-endowed
 speechless
 speedy
+spell-bound
 spellbinding
 spellbound
 spendable
 spendthrift
 spent
+sperm-filled
 spermatic
 spermicidal
 spermous
@@ -13480,26 +16921,42 @@ spherical
 spheroidal
 sphingine
 spic
+spic-and-span
 spicate
+spice-scented
 spick
+spick-and-span
 spicy
+spider-shaped
 spiderlike
 spiderly
 spidery
+spiffed up
 spiffing
 spiffy
 spiked
 spikelike
 spiky
 spinal
+spindle-legged
+spindle-shanked
+spindle-shaped
 spindly
+spine-tipped
 spineless
 spinnable
 spinnbar
 spinose
 spinous
 spiny
+spiny-backed
+spiny-edged
+spiny-finned
+spiny-leafed
+spiny-leaved
+spiny-stemmed
 spiral
+spiral-shelled
 spiraling
 spirant
 spirited
@@ -13536,7 +16993,9 @@ spongelike
 spongy
 spontaneous
 spooky
+spoon-shaped
 sporadic
+spore-bearing
 sporogenous
 sporting
 sportive
@@ -13549,17 +17008,25 @@ spousal
 spouting
 sprawling
 sprawly
+spray-dried
 spread
+spread-eagle
+spread-out
 sprigged
 sprightly
+spring-blooming
+spring-flowering
+spring-loaded
 springless
 springlike
 springy
 sprouted
 spruce
+spruced up
 spry
 spumy
 spunky
+spur-of-the-moment
 spurious
 spurned
 spurting
@@ -13571,7 +17038,15 @@ squally
 squamulose
 squandered
 square
+square-built
+square-jawed
+square-rigged
+square-shaped
+square-shouldered
+square-tailed
+square-toed
 squared
+squared-toe
 squarish
 squashed
 squashy
@@ -13588,10 +17063,13 @@ squiffy
 squiggly
 squinched
 squint
+squint-eyed
 squinting
 squinty
+squirrel-sized
 squirting
 squishy
+sr.
 stabbing
 stabile
 stabilised
@@ -13601,6 +17079,7 @@ stabilizing
 stable
 staccato
 stacked
+stage-struck
 staged
 stagey
 stagflationary
@@ -13615,8 +17094,11 @@ stale
 stalemated
 stalked
 stalkless
+stall-fed
 stalwart
 staminate
+stand-alone
+stand-up
 standard
 standardised
 standardized
@@ -13629,12 +17111,14 @@ stannous
 staphylococcal
 staple
 star
+star-shaped
 starboard
 starchless
 starchlike
 starchy
 staring
 stark
+stark naked
 starkers
 starless
 starlike
@@ -13642,12 +17126,16 @@ starlit
 starred
 starring
 starry
+starry-eyed
 starting
 startled
 startling
 starved
 starving
 statant
+state-controlled
+state-of-the-art
+state-supported
 stated
 stateless
 stately
@@ -13664,17 +17152,22 @@ statuesque
 statute
 statutory
 staunch
+stay-at-home
 steadfast
 steadied
 steady
+steady-going
 steadying
 stealthy
+steam-powered
 steamed
 steaming
 steamy
 stearic
+steel-plated
 steely
 steep
+steep-sided
 steepish
 steerable
 stellar
@@ -13687,6 +17180,7 @@ stenographical
 stenosed
 stenotic
 stentorian
+step-by-step
 stepwise
 stereo
 stereophonic
@@ -13705,9 +17199,17 @@ sternutatory
 steroidal
 stertorous
 stewed
+stick-in-the-mud
+stick-on
 sticking
+sticking out
 sticky
 stiff
+stiff-backed
+stiff-branched
+stiff-haired
+stiff-necked
+stiff-tailed
 stifled
 stifling
 stigmatic
@@ -13729,11 +17231,15 @@ stipendiary
 stippled
 stipulatory
 stirred
+stirred up
 stirring
+stirrup-shaped
 stitched
 stochastic
 stock
+stock-still
 stocked
+stocked with
 stockinged
 stocky
 stodgy
@@ -13748,27 +17254,51 @@ stomachic
 stomatal
 stomatous
 stone
+stone-blind
+stone-broke
+stone-cold
+stone-dead
+stone-deaf
+stone-gray
+stone-grey
+stone-sober
 stoned
 stoneless
 stonelike
 stony
+stony-broke
 stonyhearted
 stooped
 stooping
 stoppable
 stopped
+stopped up
+stopped-up
 stoppered
+store-bought
+stored-program
 storeyed
 storied
+storm-beaten
+storm-tossed
 stormbound
 stormproof
 stormy
 stout
+stout-billed
+stout-stemmed
 stouthearted
 stovepiped
 straggling
 straggly
 straight
+straight-backed
+straight-billed
+straight-from-the-shoulder
+straight-grained
+straight-laced
+straight-legged
+straight-out
 straightarrow
 straightaway
 straightforward
@@ -13776,6 +17306,7 @@ straightlaced
 strained
 straining
 strait
+strait-laced
 straitlaced
 stranded
 strange
@@ -13787,12 +17318,15 @@ strategic
 strategical
 stratified
 straw
+straw-colored
+straw-coloured
 stray
 straying
 streaked
 streaky
 streaming
 streamlined
+street smart
 streetwise
 strengthened
 strenuous
@@ -13813,21 +17347,34 @@ strikebound
 striking
 stringent
 stringy
+strip-mined
 striped
 stripped
+stripped-down
 stripy
 strong
+strong-arm
+strong-boned
+strong-flavored
+strong-growing
+strong-minded
+strong-scented
+strong-smelling
+strong-willed
 stroppy
 struck
 structural
 structured
 struggling
 strung
+strung-out
 stubbled
 stubbly
 stubborn
 stubby
 stuck
+stuck with
+stuck-up
 studded
 studied
 studious
@@ -13852,6 +17399,9 @@ stylized
 styptic
 suasible
 suave
+sub judice
+sub-Saharan
+sub-rosa
 subacid
 subacute
 subalpine
@@ -13951,31 +17501,41 @@ suffocating
 suffocative
 suffrutescent
 suffusive
+sugar-coated
 sugared
 sugarless
 sugary
 suggestible
 suggestive
+sui generis
 suicidal
 suitable
 suited
 sulcate
+sulfur-yellow
 sulfuretted
 sulfuric
 sulfurized
 sulfurous
 sulky
 sullen
+sulphur-yellow
 sulphuretted
 sulphuric
 sulphurous
 sultry
+summa cum laude
 summary
 summational
 summative
+summer-blooming
+summer-flowering
 summery
 sumptuary
 sumptuous
+sun-drenched
+sun-dried
+sun-loving
 sunbaked
 sunburned
 sunburnt
@@ -13983,9 +17543,11 @@ sundried
 sundry
 sunk
 sunken
+sunken-eyed
 sunless
 sunlit
 sunny
+sunny-side up
 sunrise
 sunset
 sunstruck
@@ -14058,8 +17620,16 @@ suprasegmental
 supreme
 surd
 sure
+sure as shooting
+sure-enough
+sure-fire
+sure-footed
+sure-handed
 surefooted
 surface
+surface-active
+surface-assimilative
+surface-to-air
 surficial
 surgical
 surging
@@ -14094,6 +17664,7 @@ susurrous
 svelte
 swagger
 swaggering
+swallow-tailed
 swampy
 swank
 swanky
@@ -14104,6 +17675,11 @@ swayback
 swaybacked
 sweeping
 sweet
+sweet-breathed
+sweet-faced
+sweet-flavored
+sweet-scented
+sweet-smelling
 sweetened
 sweetheart
 sweetish
@@ -14115,6 +17691,7 @@ swept
 sweptback
 sweptwing
 swift
+swift-footed
 swimming
 swingeing
 swinging
@@ -14123,7 +17700,9 @@ swinish
 swish
 swishy
 swollen
+swollen-headed
 swooning
+sword-shaped
 swordlike
 sworn
 sybaritic
@@ -14185,6 +17764,7 @@ systematic
 systemic
 systolic
 tabby
+table d'hote
 taboo
 tabu
 tabular
@@ -14196,13 +17776,21 @@ tactical
 tactile
 tactless
 tactual
+tadpole-shaped
 tagged
+tail-shaped
 tailed
 tailless
 taillike
+tailor-made
 tailored
 tainted
+take-away
+take-home
 taken
+taken for granted
+taken up
+taken with
 takeout
 taking
 talebearing
@@ -14213,6 +17801,8 @@ talismanic
 talkative
 talky
 tall
+tall-growing
+tall-stalked
 tallish
 taloned
 tamable
@@ -14228,20 +17818,27 @@ tangy
 tanned
 tannic
 tannish
+tansy-scented
+tansy-smelling
 tantalising
 tantalizing
 tantamount
+tape-recorded
 taped
 tapered
 tapering
+tapering off
 tapestried
 tapped
 tardive
 tardy
+target-hunting
+tarred-and-feathered
 tarry
 tarsal
 tart
 tartaric
+tassel-shaped
 tasseled
 tasselled
 tasteful
@@ -14259,11 +17856,17 @@ tautologic
 tautological
 tawdry
 tawny
+tawny-brown
+tawny-colored
+tawny-coloured
+tax-exempt
+tax-free
 taxable
 taxing
 taxonomic
 taxonomical
 taxpaying
+tea-scented
 teachable
 teal
 tearaway
@@ -14271,9 +17874,12 @@ tearful
 tearing
 tearless
 teary
+teary-eyed
 teased
 teasing
 technical
+technical grade
+technical-grade
 technological
 technophilic
 technophobic
@@ -14285,8 +17891,10 @@ teen
 teenage
 teenaged
 teensy
+teensy-weensy
 teentsy
 teeny
+teeny-weeny
 teetotal
 tegular
 telegnostic
@@ -14307,15 +17915,23 @@ temperamental
 temperate
 tempered
 tempering
+tempest-swept
+tempest-tossed
+tempest-tost
 tempestuous
 temporal
 temporary
 temptable
 tempting
 ten
+ten thousand
+ten-fold
+ten-membered
+ten-sided
 tenable
 tenacious
 tenanted
+tended to
 tendencious
 tendentious
 tender
@@ -14324,6 +17940,7 @@ tenderised
 tenderized
 tending
 tendinous
+tendril-climbing
 tenebrific
 tenebrious
 tenebrous
@@ -14359,6 +17976,8 @@ terrific
 terrified
 terrifying
 territorial
+terror-stricken
+terror-struck
 terse
 tertian
 tertiary
@@ -14372,6 +17991,7 @@ testimonial
 testy
 tetanic
 tetchy
+tete-a-tete
 tethered
 tetragonal
 tetramerous
@@ -14400,6 +18020,7 @@ theocratic
 theological
 theoretic
 theoretical
+theory-based
 theosophical
 therapeutic
 therapeutical
@@ -14421,32 +18042,68 @@ thermosetting
 thermostatic
 thespian
 thick
+thick-billed
+thick-bodied
+thick-branched
+thick-haired
+thick-lipped
+thick-skinned
+thick-skulled
+thick-stemmed
 thickened
 thickening
+thicket-forming
 thickheaded
+thickly settled
 thickset
 thickspread
 thieving
 thievish
+thimble-shaped
 thin
+thin-bodied
+thin-shelled
+thin-skinned
 thinkable
 thinking
 thinned
 third
+third-dimensional
+third-rate
+third-year
 thirdhand
 thirsty
 thirteen
 thirteenth
 thirtieth
 thirty
+thirty-eighth
+thirty-fifth
+thirty-first
+thirty-five
+thirty-four
+thirty-fourth
+thirty-nine
+thirty-ninth
+thirty-one
+thirty-second
+thirty-seven
+thirty-seventh
+thirty-six
+thirty-sixth
+thirty-third
+thirty-three
+thirty-two
 thistlelike
 thoracic
 thoriated
+thorn-tipped
 thornless
 thorny
 thorough
 thoroughbred
 thoroughgoing
+thought-provoking
 thoughtful
 thoughtless
 thousand
@@ -14458,6 +18115,30 @@ thready
 threatened
 threatening
 three
+three hundred
+three-cornered
+three-d
+three-dimensional
+three-figure
+three-fold
+three-hundredth
+three-lane
+three-legged
+three-lipped
+three-lobed
+three-membered
+three-needled
+three-party
+three-petaled
+three-petalled
+three-piece
+three-ply
+three-seeded
+three-sided
+three-way
+three-wheel
+three-wheeled
+three-year-old
 threefold
 threepenny
 threescore
@@ -14473,9 +18154,12 @@ throbbing
 thrombosed
 thronged
 through
+through with
 throwaway
 throwback
 thrown
+thrown and twisted
+thrown-away
 thudding
 thumbed
 thumping
@@ -14495,18 +18179,33 @@ ticklish
 tidal
 tiddly
 tidy
+tie-on
 tied
+tied up
 tiered
+tiger-striped
 tigerish
 tight
+tight fitting
+tight-fitting
+tight-knit
+tight-laced
 tightfisted
 tightfitting
 tightlipped
+tightly fitting
+tightly knit
 tiled
 tillable
 tilled
 tilted
+timber-framed
 timbered
+time-consuming
+time-honored
+time-honoured
+time-release
+time-tested
 timed
 timeless
 timely
@@ -14524,12 +18223,16 @@ tinpot
 tinseled
 tinselly
 tiny
+tip-and-run
+tip-tilted
+tip-up
 tipped
 tippy
 tipsy
 tiptoe
 tiptop
 tired
+tired of
 tireless
 tiresome
 tiring
@@ -14545,32 +18248,53 @@ toasted
 tod
 toed
 toeless
+toffee-nosed
 together
 togged
+togged up
+toilet-trained
 toiling
 toilsome
 token
 tokenish
 tolerable
 tolerant
+toll-free
 tomboyish
 tomentose
 tomentous
 tonal
+tone-deaf
 toned
 toneless
+tongue-in-cheek
+tongue-shaped
+tongue-tied
 tongued
 tongueless
 tonguelike
 tonic
 tonsorial
 tonsured
+too bad
+too big for one's breeches
+too large
+too-careful
+too-generous
 toothed
 toothless
 toothlike
 toothsome
 toothy
 top
+top-down
+top-flight
+top-grade
+top-heavy
+top-hole
+top-notch
+top-quality
+top-secret
 topical
 topknotted
 topless
@@ -14583,6 +18307,7 @@ topological
 topped
 topping
 tops
+topsy-turvy
 tormented
 torn
 toroidal
@@ -14604,11 +18329,15 @@ totemic
 totipotent
 tottering
 tottery
+touch-and-go
 touchable
 touched
 touching
 touchy
+touchy-feely
 tough
+tough-minded
+tough-skinned
 toughened
 toupeed
 touristed
@@ -14708,6 +18437,9 @@ trapezoidal
 trapped
 trashy
 traumatic
+travel-soiled
+travel-stained
+travel-worn
 travelable
 traveled
 travelled
@@ -14720,6 +18452,8 @@ treasonous
 treasured
 treated
 treble
+tree-living
+tree-shaped
 treed
 treeless
 treelike
@@ -14728,10 +18462,12 @@ trembling
 tremendous
 tremulous
 trenchant
+trend-setting
 trendsetting
 trendy
 trepid
 trespassing
+trial-and-error
 triangular
 triangulate
 tribadistic
@@ -14741,6 +18477,7 @@ tricentenary
 tricentennial
 trichromatic
 trichrome
+tricked-out
 tricksy
 tricky
 triclinic
@@ -14748,6 +18485,7 @@ tricolor
 tricuspid
 tricuspidate
 tried
+tried and true
 triennial
 trifid
 trifling
@@ -14755,6 +18493,7 @@ trifoliate
 trifoliated
 trifoliolate
 trig
+trigger-happy
 trigonal
 trigonometric
 trihydroxy
@@ -14777,6 +18516,7 @@ tripinnate
 tripinnated
 tripinnatifid
 triple
+triple-crown
 triplex
 triploid
 tripping
@@ -14789,11 +18529,13 @@ triune
 trivalent
 trivial
 trochaic
+trompe-l'oeil
 trophic
 trophoblastic
 trophotropic
 tropic
 tropical
+trouble-free
 troubled
 troublesome
 troubling
@@ -14802,7 +18544,15 @@ trousered
 truant
 truculent
 true
+true to
+true to life
+true-blue
+true-false
+true-to-life
 truehearted
+trumped-up
+trumpet-like
+trumpet-shaped
 truncate
 truncated
 trussed
@@ -14817,6 +18567,8 @@ tsarist
 tsaristic
 tubal
 tubby
+tube-nosed
+tube-shaped
 tubed
 tubeless
 tubelike
@@ -14828,6 +18580,7 @@ tuberous
 tubular
 tucked
 tufted
+tumble-down
 tumescent
 tumid
 tumultuous
@@ -14839,7 +18592,12 @@ turbid
 turbinate
 turbulent
 turgid
+turkey-sized
+turn-key
 turned
+turned on
+turned out
+turnip-shaped
 turnkey
 tusked
 tutelar
@@ -14850,14 +18608,34 @@ twee
 tweedy
 twelfth
 twelve
+twelve-sided
 twentieth
 twenty
+twenty-eight
+twenty-eighth
+twenty-fifth
+twenty-first
+twenty-five
+twenty-four
+twenty-fourth
+twenty-nine
+twenty-ninth
+twenty-one
+twenty-second
+twenty-seven
+twenty-seventh
+twenty-six
+twenty-sixth
+twenty-third
+twenty-three
+twenty-two
 twiggy
 twiglike
 twilight
 twilit
 twilled
 twin
+twin-bedded
 twinkling
 twinkly
 twinned
@@ -14866,8 +18644,40 @@ twisted
 twisting
 twisty
 two
+two hundred
+two-a-penny
+two-chambered
+two-channel
+two-dimensional
+two-eared
+two-faced
+two-fold
+two-footed
+two-handed
+two-humped
+two-hundredth
+two-lane
+two-leafed
+two-leaved
+two-lipped
+two-lobed
+two-needled
+two-part
+two-party
+two-piece
+two-ply
+two-sided
+two-timing
+two-toe
+two-toed
+two-way
+two-wheel
+two-wheeled
+two-year
+two-year-old
 twofold
 twopenny
+twopenny-halfpenny
 twoscore
 tympanic
 tympanitic
@@ -14891,6 +18701,7 @@ ulterior
 ultimate
 ultimo
 ultra
+ultra vires
 ultraconservative
 ultramarine
 ultramicroscopic
@@ -14899,6 +18710,7 @@ ultramontane
 ultranationalistic
 ultrasonic
 ultraviolet
+umbel-like
 umbellar
 umbellate
 umbelliferous
@@ -14908,12 +18720,16 @@ umbilical
 umbilicate
 umbrageous
 umbrella
+umbrella-shaped
 umbrellalike
 umpteen
 umpteenth
 umptieth
 umteen
 umteenth
+un-American
+un-come-at-able
+un-get-at-able
 unabashed
 unabated
 unable
@@ -14931,6 +18747,7 @@ unaccustomed
 unachievable
 unacknowledged
 unacquainted
+unacquainted with
 unacquisitive
 unactable
 unadaptable
@@ -15091,10 +18908,12 @@ unburdened
 unburied
 unburnished
 unbuttoned
+uncalled-for
 uncamphorated
 uncanny
 uncapped
 uncarbonated
+uncared-for
 uncaring
 uncarpeted
 uncarved
@@ -15287,6 +19106,12 @@ undenominational
 undependable
 undepicted
 under
+under attack
+under fire
+under the weather
+under wraps
+under-the-counter
+under-the-table
 underactive
 underage
 underarm
@@ -15389,7 +19214,9 @@ undramatic
 undraped
 undrawn
 undreamed
+undreamed of
 undreamt
+undreamt of
 undressed
 undried
 undrinkable
@@ -15441,6 +19268,7 @@ unenthusiastic
 unentitled
 unenviable
 unequal
+unequal to
 unequaled
 unequalised
 unequalized
@@ -15493,6 +19321,7 @@ unfair
 unfaithful
 unfaltering
 unfamiliar
+unfamiliar with
 unfashionable
 unfastened
 unfastidious
@@ -15618,6 +19447,7 @@ unhealthful
 unhealthy
 unhearable
 unheard
+unheard-of
 unhearing
 unheated
 unheeded
@@ -15632,6 +19462,7 @@ unholy
 unhomogenised
 unhomogenized
 unhoped
+unhoped-for
 unhopeful
 unhuman
 unhumorous
@@ -15782,6 +19613,7 @@ unlobed
 unlocated
 unlocked
 unlogical
+unlooked-for
 unlovable
 unloved
 unlovely
@@ -15954,6 +19786,7 @@ unplanted
 unplayable
 unplayful
 unpleasant
+unpleasant-smelling
 unpleasing
 unpledged
 unploughed
@@ -16007,6 +19840,7 @@ unprotective
 unprovable
 unproved
 unproven
+unprovided for
 unprovocative
 unprovoked
 unprovoking
@@ -16363,6 +20197,7 @@ unthematic
 unthinkable
 unthinking
 unthought
+unthought-of
 unthoughtful
 unthreatening
 untidy
@@ -16469,6 +20304,7 @@ unwilled
 unwilling
 unwise
 unwished
+unwished-for
 unwitting
 unwomanly
 unwonted
@@ -16485,6 +20321,18 @@ unwrinkled
 unwritten
 unyielding
 up
+up in the air
+up on
+up to
+up to her neck
+up to his neck
+up to my neck
+up to our necks
+up to their necks
+up to your neck
+up-and-coming
+up-to-date
+up-to-the-minute
 upbeat
 upbound
 upcoming
@@ -16498,7 +20346,12 @@ upland
 uplifted
 upmarket
 upmost
+upon one's guard
 upper
+upper-class
+upper-level
+upper-lower-class
+upper-middle-class
 uppercase
 uppermost
 uppish
@@ -16509,6 +20362,7 @@ uproarious
 upscale
 upset
 upsetting
+upside-down
 upstage
 upstair
 upstairs
@@ -16532,13 +20386,16 @@ urgent
 uric
 uricosuric
 urinary
+urn-shaped
 urogenital
 ursine
 usable
 useable
 used
+used to
 useful
 useless
+user-friendly
 usual
 usufructuary
 usurious
@@ -16547,6 +20404,7 @@ utile
 utilised
 utilitarian
 utility
+utility-grade
 utilizable
 utilized
 utmost
@@ -16643,6 +20501,7 @@ veined
 velar
 velvet
 velvety
+velvety-furred
 venal
 venatic
 venatorial
@@ -16722,6 +20581,7 @@ vibratory
 vibrionic
 vicarial
 vicarious
+vice-presidential
 vicenary
 vicennial
 viceregal
@@ -16752,6 +20612,8 @@ violated
 violative
 violent
 violet
+violet-colored
+violet-tinged
 viral
 virgin
 virginal
@@ -16777,6 +20639,8 @@ visored
 visual
 visualised
 visualized
+visually challenged
+visually impaired
 vital
 vitalizing
 vitiated
@@ -16785,6 +20649,7 @@ vitreous
 vitrified
 vitriolic
 vituperative
+viva-voce
 vivacious
 vivid
 viviparous
@@ -16837,14 +20702,22 @@ vulturous
 vulval
 vulvar
 wacky
+wafer-like
+wafer-thin
+wage-earning
 waggish
 wailful
 wailing
 wainscoted
+waist-length
 waiting
 wakeful
 wakeless
 waking
+walk-in
+walk-on
+walk-to
+walk-up
 walking
 walleyed
 walloping
@@ -16854,8 +20727,13 @@ waning
 wanted
 wanting
 wanton
+war-ridden
+war-torn
+war-worn
 warlike
 warm
+warm-blooded
+warm-toned
 warmed
 warmhearted
 warming
@@ -16866,35 +20744,52 @@ warriorlike
 wartlike
 warty
 wary
+wash-and-wear
 washable
 washed
+washed-out
+washed-up
 washy
+wasp-waisted
 waspish
 waste
 wasted
 wasteful
 watchful
+water-cooled
+water-insoluble
+water-loving
+water-repellent
+water-resistant
+water-soluble
+water-washed
 waterborne
 watercress
 watered
 waterless
 waterlogged
+watermelon-shaped
 waterproof
 waterproofed
 watertight
 waterworn
 watery
+watery-eyed
 wavelike
 wavering
 wavy
+wavy-grained
 waxed
 waxen
 waxing
 waxlike
 waxy
+way-out
 wayfaring
 wayward
 weak
+weak-kneed
+weak-stemmed
 weakened
 weakening
 weakly
@@ -16902,22 +20797,30 @@ wealthy
 weaned
 weaponed
 weaponless
+weapons-grade
 wearable
 wearied
 wearing
 wearisome
 weary
 wearying
+weasel-worded
 weather
+weather-beaten
+weather-bound
+weather-stripped
 weathered
 weatherly
 weatherproof
 weatherworn
+web-footed
+web-toed
 webbed
 webby
 weblike
 wed
 wedded
+wedge-shaped
 wedged
 wee
 weedless
@@ -16928,16 +20831,83 @@ weensy
 weeny
 weeping
 weepy
+weighed down
 weighted
 weightless
 weighty
 weird
 welcome
 welcoming
+welfare-statist
 welfarist
 well
+well behaved
+well fed
+well thought out
+well timed
+well-adjusted
+well-advised
+well-appointed
+well-balanced
+well-behaved
+well-bound
+well-branched
+well-bred
+well-chosen
+well-conducted
+well-connected
+well-defined
+well-disposed
+well-done
+well-dressed
+well-educated
+well-endowed
+well-favored
+well-favoured
+well-fed
+well-fixed
+well-formed
+well-found
+well-founded
+well-groomed
+well-grooved
+well-grounded
+well-heeled
+well-informed
+well-intentioned
+well-kept
+well-knit
+well-known
+well-lighted
+well-lined
+well-made
+well-mannered
+well-marked
+well-meaning
+well-meant
+well-mined
+well-nourished
+well-off
+well-ordered
+well-preserved
+well-proportioned
+well-qualified
+well-read
+well-rounded
+well-set
+well-shaven
+well-situated
+well-spoken
+well-thought-of
+well-timed
+well-to-do
+well-tried
+well-turned
+well-wishing
+well-worn
 wellborn
 west
+west-central
 westbound
 westerly
 western
@@ -16952,6 +20922,7 @@ whacky
 whatever
 whatsoever
 wheaten
+wheel-like
 wheeled
 wheelless
 wheezing
@@ -16969,10 +20940,27 @@ whiskery
 whispered
 whispering
 white
+white-blotched
+white-bread
+white-collar
+white-edged
+white-flowered
+white-haired
+white-hot
+white-lipped
+white-livered
+white-pink
+white-ribbed
+white-seeded
+white-shoe
+white-streaked
+white-tie
 whitened
 whitewashed
 whitish
 whole
+whole-souled
+whole-wheat
 wholehearted
 wholemeal
 wholesale
@@ -16981,7 +20969,16 @@ whopping
 whorled
 wicked
 wide
+wide of the mark
+wide-angle
+wide-awake
+wide-cut
+wide-eyed
+wide-open
+wide-ranging
+wide-screen
 wideband
+widely distributed
 widespread
 widowed
 wieldy
@@ -16991,10 +20988,12 @@ wigged
 wiggly
 wigless
 wild
+wild-eyed
 wildcat
 wilful
 willful
 willing
+willing and able
 willowy
 wilted
 wily
@@ -17010,7 +21009,9 @@ windswept
 windup
 windward
 windy
+wine-red
 winey
+wing-shaped
 winged
 wingless
 winglike
@@ -17018,22 +21019,34 @@ winking
 winless
 winning
 winsome
+winter-blooming
+winter-flowering
 wintery
 wintry
 winy
+wiped out
+wire-haired
 wired
 wireless
 wiry
+wiry-coated
+wiry-stemmed
 wise
+wise to
+wished-for
 wishful
+wishy-washy
 wisplike
 wispy
 wistful
 witching
 witchlike
+with child
+with-it
 withdrawn
 withered
 withering
+without a stitch
 witless
 witting
 witty
@@ -17045,40 +21058,69 @@ wobbling
 wobbly
 woebegone
 woeful
+wolf-sized
 wolfish
 wolflike
 womanish
 womanlike
 womanly
+womb-to-tomb
 won
+wonder-struck
 wonderful
 wondering
 wonderworking
 wondrous
 wonky
+wont to
 wonted
+wood-burning
 wooded
 wooden
+wooden-headed
 woodsy
 woody
+woody-stemmed
 woolen
 woolgathering
 woollen
 woolly
+woolly-haired
+woolly-headed
+woolly-stemmed
 wooly
+wooly-haired
+wooly-minded
 woozy
+word-blind
+word-of-mouth
+word-perfect
 wordless
 wordy
+work-shy
 workable
 workaday
+worked up
 working
+working-class
 workmanlike
 world
+world-class
+world-shaking
+world-shattering
+world-weary
+world-wide
 worldly
+worldly-minded
+worldly-wise
 worldwide
+worm-eaten
+worm-shaped
 wormlike
 wormy
 worn
+worn out
+worn-out
 worried
 worrisome
 worrying
@@ -17093,27 +21135,33 @@ worthful
 worthless
 worthwhile
 worthy
+would-be
 wound
+wound up
 wounded
 wounding
 woven
 wraithlike
 wrapped
+wrapped up
 wrathful
 wrecked
 wrenching
 wretched
 wriggling
 wriggly
+wrinkle-resistant
 wrinkled
 wrinkleless
 wrinkleproof
 wrinkly
+writ large
 writhed
 writhen
 writhing
 written
 wrong
+wrong-side-out
 wrongful
 wrongheaded
 wroth
@@ -17172,22 +21220,34 @@ xxxv
 xxxvi
 xxxvii
 xxxviii
+yarn-spinning
 yawning
+year-end
+year-round
 yearlong
 yearly
+yearned-for
 yeastlike
 yeasty
 yelled
 yellow
+yellow-beige
+yellow-bellied
+yellow-green
+yellow-grey
+yellow-orange
+yellow-white
 yellowed
 yellowish
 yielding
 yogic
 yogistic
+yokel-like
 yokelish
 yon
 yonder
 young
+young-bearing
 younger
 youngish
 youthful
@@ -17201,6 +21261,7 @@ zero
 zeroth
 zestful
 zesty
+zig-zag
 zigzag
 zillion
 zippy
