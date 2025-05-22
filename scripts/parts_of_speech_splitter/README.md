@@ -42,6 +42,12 @@ according to
 agin
 without
 
+Same goes for 'articles' which just as 'a' in it
+
+Also, 'interjections' which only had a few
+
+Some for pronouns. 
+
 Those don't seem worth including
 
 

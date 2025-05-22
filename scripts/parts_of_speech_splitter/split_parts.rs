@@ -88,10 +88,7 @@ fn main() -> Result<()> {
     let word_types = vec![
         ("adjective", "adjectives"),
         ("adverb", "adverbs"),
-        ("article", "articles"),
-        ("interjection", "interjections"),
         ("noun", "nouns"),
-        ("pronoun", "pronouns"),
         ("verb", "verbs"),
     ];
     make_files(&book, &word_types)?;
@@ -103,7 +100,7 @@ pub fn make_files(book: &Book, word_types: &Vec<(&str, &str)>) -> Result<()> {
         let output_path = PathBuf::from(format!("../../docs/txt/english-{}.txt", wt.1));
         let words = book.get_words_of_kind(wt.0).unwrap();
         fs::write(output_path, words.join("\n")).unwrap();
-        let about_path = PathBuf::from(format!("../../docs/txt/english-{}-about.txt", wt.1));
+        let about_path = PathBuf::from(format!("../../docs/txt/english-{}__about.txt", wt.1));
         let about_txt = format!("A collection of {} from the open source Wordset Dictionary\nhttps://github.com/wordset/wordset-dictionary", wt.1);
         fs::write(about_path, about_txt).unwrap();
     });

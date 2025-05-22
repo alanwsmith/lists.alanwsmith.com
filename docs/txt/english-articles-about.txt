@@ -1,2 +1,0 @@
-A collection of articles from the open source Wordset Dictionary
-https://github.com/wordset/wordset-dictionary
