@@ -1,0 +1,2 @@
+A collection of adjectives from the open source Wordset Dictionary
+https://github.com/wordset/wordset-dictionary

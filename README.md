@@ -1,2 +1,5 @@
-# word-lists.alanwsmith.com
-Lists of words
+# lists.alanwsmith.com
+
+A place to collect lists
+
+
