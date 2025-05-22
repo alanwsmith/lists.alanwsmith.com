@@ -57,48 +57,28 @@ impl Book {
             .expect("asdf")
             .values()
             .filter_map(|x| {
-                if no_spaces_etc(x["word"].as_str().unwrap()) {
-                    match x["meanings"].as_array() {
-                        Some(meanings) => { 
-                            meanings.iter().find_map(|meaning| {
-                                match meaning["speech_part"].as_str() {
-                                    Some(speech_part) => {
-                                        if kind == speech_part {
-                                            Some(x["word"].as_str()?.to_string())
-                                        } else {
-                                            None
-                                        }
-                                    },
-                                    None => None
-                                }
-                            })
-                        }
-                        None => None
+                match x["meanings"].as_array() {
+                    Some(meanings) => { 
+                        meanings.iter().find_map(|meaning| {
+                            match meaning["speech_part"].as_str() {
+                                Some(speech_part) => {
+                                    if kind == speech_part {
+                                        Some(x["word"].as_str()?.to_string())
+                                    } else {
+                                        None
+                                    }
+                                },
+                                None => None
+                            }
+                        })
                     }
-                } else {
-                    None
+                    None => None
                 }
             }).collect::<Vec<String>>()
         ).collect();
         words.sort();
         Ok(words)
     }
-}
-
-fn no_spaces_etc(check: &str) -> bool {
-    // NOTE: was doing this to remove some stuff
-    // from adjectives. Since all words types
-    // are going now, I'm leaving everything in 
-    // and just relying on filtering downstream if 
-    // it's necessary.
-    // check.chars().nth(0).expect("getting_char").is_lowercase()
-    //     && 
-    // !check.contains(" ")
-    //     && 
-    // !check.contains(".")
-    //     && 
-    // !check.contains("-")
-    true
 }
 
 fn main() -> Result<()> {
