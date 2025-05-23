@@ -1,3 +1,5 @@
+#!/usr/bin/env cargo -Zscript
+
 ---
 [dependencies]
 anyhow = "1.0.98"
@@ -83,6 +85,7 @@ r#"<!DOCTYPE html>
     <style>
     a {
         color: slategray;
+        text-decoration: none;
     }
     body {
       background-color: black;
